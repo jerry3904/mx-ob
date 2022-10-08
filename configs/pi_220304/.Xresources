@@ -1,0 +1,12 @@
+xterm*faceName: Monospace
+xterm*faceSize: 12
+
+#xvkbd.windowGeometry: 800x400
+xvkbd.compact: true
+
+xvkbd*Font: -*-helvetica-medium-r-*-*-12-*-*-*-*-*-iso8859-1
+xvkbd.generalFont: -*-lucidatypewriter-bold-r-*-*-12-*-*-*-*-*-iso8859-1
+xvkbd.letterFont: -*-helvetica-bold-r-*-*-12-*-*-*-*-*-iso8859-1
+
+
+

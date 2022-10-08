@@ -1,0 +1,201 @@
+[app] (class=Blueman-manager)
+  [Position]	(CENTER)	{0 0}
+  [Sticky]	{yes}
+[end]
+[app] (name=fbrun)
+  [Position]	(TOP)	{0 0}
+  [Deco]	{0x25}
+  [Layer]	{2}
+[end]
+[app] (class=Firefox)
+  [Position]	(UPPERLEFT)	{17% 4%}
+  [Close]	{yes}
+[end]
+[app] (class=Galculator)
+  [Position]	(CENTER)	{0 0}
+  [Close]	{yes}
+[end]
+[app] (class=Geany)
+  [Position]	(UPPERLEFT)	{13% 0%}
+  [Close]	{yes}
+[end]
+[app] (class=Gimp)
+  [Position]	(CENTER)	{0 0}
+  [Close]	{yes}
+[end]
+[app] (class=Grsync)
+  [Position]	(UPPERLEFT)	{28% 28%}
+  [Close]	{yes}
+[end]
+[app] (class=libreoffice-base)
+  [Position]	(CENTER)	{0 0}
+  [Close]	{yes}
+[end]
+[app] (class=libreoffice-calc)
+  [Position]	(CENTER)	{0 0}
+  [Close]	{yes}
+[end]
+[app] (class=libreoffice-draw)
+  [Position]	(CENTER)	{0 0}
+  [Close]	{yes}
+[end]
+[app] (class=libreoffice-impress)
+  [Position]	(CENTER)	{0 0}
+  [Close]	{yes}
+[end]
+[app] (class=libreoffice-math)
+  [Position]	(CENTER)	{0 0}
+  [Close]	{yes}
+[end]
+[app] (class=libreoffice-writer)
+  [Position]	(CENTER)	{0 0}
+  [Close]	{yes}
+[end]
+[app] (class=libreoffice-startcenter)
+  [Position]	(UPPERLEFT)	{3% 1%}
+  [Close]	{yes}
+[end]
+[app] (class=Pavucontrol)
+  [Position]	(CENTER)	{0 0}
+  [Sticky]	{yes}
+[end]
+[app] (class=Qpdfview)
+  [Position]	(CENTER)	{0 0}
+  [Close]	{yes}
+[end]
+[app] (class=Thunar)
+  [Dimensions]	{53% 48%}
+  [Position]	(UPPERLEFT)	{21% 10%}
+  [Close]	{yes}
+[end]
+[app] (class=Thunderbird)
+  [Position]	(CENTER)	{0 0}
+  [Close]	{yes}
+[end]
+[app] (class=Tint2conf)
+  [Position]	(UPPERLEFT)	{1% 4%}
+  [Close]	{yes}
+[end]
+[app] (class=file-roller)
+  [Position]	(CENTER)	{0 0}
+  [Close]	{yes}
+[end]
+[app] (name=lxappearance)
+  [Position]	(UPPERLEFT)	{15% 8%}
+  [Close]	{yes}
+[end]
+[app] (name=yad) (class=Yad)
+  [Dimensions]	{86% 40%}
+  [Position]	(UPPERLEFT)	{8% 17%}
+  [Close]	{yes}
+[end]
+[app] (name=featherpad) (class=FeatherPad)
+  [Dimensions]	{60% 80%}
+  [Position]	(UPPERLEFT)	{25% 0%}
+[end]
+[app] (name=feh)
+  [Position]	(UPPERLEFT)	{-4% 13%}
+  [Close]	{yes}
+[end]
+[app] (name=lxrandr) (class=Lxrandr)
+  [Position]	(CENTER)	{0 0}
+[end]
+[app] (name=system-keyboard-qt) (class=system-keyboard-qt)
+  [Position]	(CENTER)	{0 0}
+[end]
+[app] (name=gsimplecal) (class=calendar)
+  [Position]	(CENTER)	{0 0}
+  [Close]	{yes}
+[end]
+[app] (name=system-keyboard-qt) (class=system-keyboard-qt)
+  [Position]	(CENTER)	{0 0}
+[end]
+[app] (name=roxterm) (class=Roxterm)
+  [Dimensions]	{59% 44%}
+  [Position]	(UPPERLEFT)	{19% 29%}
+  [Close]	{yes}
+[end]
+[app] (name=synaptic) (class=Synaptic)
+  [Dimensions]	{78% 89%}
+  [Position]	(UPPERLEFT)	{10% 6%}
+  [Close]	{yes}
+[end]
+[app] (name=xfce4-appfinder) (class=Xfce4-appfinder)
+  [Dimensions]	{51% 96%}
+  [Position]	(UPPERLEFT)	{16% 2%}
+  [Close]	{yes}
+[end]
+[app] (name=mx-tools) (class=mx-tools)
+  [Dimensions]	{64% 65%}
+  [Position]	(UPPERLEFT)	{19% 9%}
+  [Close]	{yes}
+[end]
+[app] (name=custom-toolbox) (class=custom-toolbox)
+  [Dimensions]	{51% 73%}
+  [Position]	(UPPERLEFT)	{26% 9%}
+  [Close]	{yes}
+[end]
+[app] (name=qpdfview) (class=qpdfview)
+  [Dimensions]	{98% 93%}
+  [Position]	(UPPERLEFT)	{0% 0%}
+  [Close]	{yes}
+[end]
+[app] (name=gthumb)
+  [Dimensions]	{70% 75%}
+  [Position]	(UPPERLEFT)	{13% 13%}
+  [Close]	{no}
+[end]
+[app] (name=mx-packageinstaller) (class=mx-packageinstaller)
+  [Dimensions]	{53% 56%}
+  [Position]	(UPPERLEFT)	{20% 24%}
+  [Close]	{yes}
+[end]
+[app] (name=xfce4-terminal) (class=Xfce4-terminal) (role=xfce4-terminal-1641943502--740248358)
+  [Dimensions]	{66% 52%}
+  [Position]	(UPPERLEFT)	{12% 21%}
+  [Close]	{yes}
+[end]
+[app] (name=piclone) (class=Piclone)
+  [Position]	(UPPERLEFT)	{31% 32%}
+  [Close]	{yes}
+[end]
+[app] (name=rc_gui) (class=Rc_gui)
+  [Position]	(UPPERLEFT)	{31% 32%}
+  [Close]	{yes}
+[end]
+[app] (name=xfce4-terminal) (class=Xfce4-terminal) (role=xfce4-terminal-1644166761--311588972)
+  [Dimensions]	{53% 47%}
+  [Position]	(CENTER)	{0% 0%}
+  [Close]	{yes}
+[end]
+[app] (name=xfce4-terminal) (class=Xfce4-terminal) (role=xfce4-terminal-1644172618-741503503)
+  [Position]	(UPPERLEFT)	{19% 26%}
+[end]
+[app] (name=xterm) (class=XTerm)
+  [Dimensions]	{38% 33%}
+  [Position]	(UPPERLEFT)	{28% 34%}
+  [Close]	{yes}
+[end]
+[app] (name=lightdm-settings) (class=Lightdm-settings)
+  [Dimensions]	{65% 70%}
+  [Position]	(UPPERLEFT)	{17% 13%}
+  [Close]	{yes}
+[end]
+[app] (name=lxpolkit) (class=Lxpolkit)
+  [Position]	(UPPERLEFT)	{34% 32%}
+  [Close]	{yes}
+[end]
+[app] (name=arandr) (class=Arandr)
+  [Position]	(UPPERLEFT)	{37% 27%}
+  [Close]	{yes}
+[end]
+[app] (name=xfce4-terminal) (class=Xfce4-terminal) (role=xfce4-terminal-1644864298-131863385)
+  [Dimensions]	{54% 47%}
+  [Position]	(UPPERLEFT)	{20% 25%}
+  [Close]	{yes}
+[end]
+[app] (name=xvkbd) (class=XVkbd)
+  [Dimensions]	{54% 28%}
+  [Position]	(UPPERLEFT)	{17% 34%}
+  [Close]	{yes}
+[end]

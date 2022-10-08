@@ -1,0 +1,113 @@
+#!/bin/sh
+#
+# fluxbox startup-script:
+#
+# Lines starting with a '#' are ignored.
+
+# Applications you want to run with fluxbox.
+# MAKE SURE THAT APPS THAT KEEP RUNNING HAVE AN ''&'' AT THE END.
+
+#setup default translated mx-fluxbox menu
+#only do on first setup of new user
+#upgrades are handled by mxflux_install.sh script
+
+# one-time run : Raspberry Pi Configuration
+(rm ~/.config/rc_gui.chk 2>/dev/null && sleep 6 && sudo rc_gui) &
+
+# localize fluxbox menu
+( which mxfb-menu-fb-l10n >/dev/null  && mxfb-menu-fb-l10n ) &
+
+# User folders update
+xdg-user-dirs-update
+# Update common folders names to match current locale
+xdg-user-dirs-gtk-update
+
+#start a compositor if using complicated conkies
+#compton &
+
+#add system monitors 
+#gkrellm &
+
+# arandr genrated screenlayout 
+# before conky
+
+# export Qt variables
+export QT_QPA_PLATFORMTHEME=gtk2
+export QT_PLATFORMTHEME=gtk2
+export QT_PLATFORM_PLUGIN=gtk2
+
+# add selected tint2 panel
+tint2session 
+
+# add desktop icons
+idesktoggle idesk on 1>/dev/null 2>&1 &
+
+# add root access
+lxpolkit &
+
+#add to systray
+nm-applet &
+blueman-applet &
+xfce4-clipman 2>/dev/null &
+mx-usb-unmounter &
+
+#set the default dock
+$HOME/.fluxbox/scripts/DefaultDock.mxdk
+
+#conky to follow conky toggle settings
+$HOME/.fluxbox/scripts/conkystart
+
+#start pulseaudio before volumeicon so unmute works
+start-pulseaudio-x11 &
+sleep 2
+volumeicon -c volumeicon-fluxbox & 
+
+# notifications
+dunst &
+
+#### TOUCHSCREEN ####
+
+# enable virtual keyboard
+#onboard &
+
+# enable right-click on touchscreen
+evdev-rce &
+
+# advanced finger motions (experimental)
+# touchegg &
+
+#####################
+
+#put brightness controller and battery monitor on toolbar
+#tint2 has its own battery widget so this is unnecessaary
+#xfce4-power-manager &
+
+# start user accessibility bus - if not already running
+/usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately  &
+
+#get last background selected
+#~/.fehbg
+nitrogen --restore
+
+# Debian-local change:
+#   - fbautostart has been added with a quick hack to check to see if it
+#     exists. If it does, we'll start it up by default.
+which fbautostart > /dev/null
+if [ $? -eq 0 ]; then
+    fbautostart
+fi
+
+# put apt-notifier on the toolbar
+(sleep 6; /usr/bin/apt-notifier) &
+
+# start spice-vdagent in KVM/Qemu 
+if [ -x /usr/bin/spice-vdagent ]; then
+   pidof -q spice-vdagentd && /usr/bin/spice-vdagent
+fi
+
+# And last but not least we start fluxbox.
+# Because it is the last app you have to run it with ''exec'' before it.
+
+exec fluxbox
+# or if you want to keep a log:
+# exec fluxbox -log ~/.fluxbox/log

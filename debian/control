@@ -1,0 +1,12 @@
+Source: 
+Section: openbox
+Priority: 
+Maintainer: Jerry Bond (stormyjerry@gmail.com)
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+
+Package: mx-ob
+Architecture: amd64
+Replaces: 
+Depends: ${misc:Depends} obconf stalonetray 
+Description: An unofficial respin of MX-Linux with Openbox as WM

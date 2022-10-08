@@ -1,0 +1,16 @@
+# see possible parameters in a terminal: "man stalonetray"
+
+icon_size 24
+kludges force_icons_size
+
+transparent true
+sticky true
+decorations none
+transparent true
+
+#dockapp_mode simple
+
+#no_shrink false
+skip_taskbar true
+
+

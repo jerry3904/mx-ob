@@ -1,0 +1,133 @@
+Xsession: X session started for pi at Thu 03 Mar 2022 06:06:23 PM EST
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/pi/.Xauthority
+/home/pi/.Xresources:4:2: error: invalid preprocessing directive #xvkbd
+ #xvkbd.windowGeometry: 800x400
+  ^~~~~
+localuser:pi being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=pi
+dbus-update-activation-environment: setting LANGUAGE=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/pi
+dbus-update-activation-environment: setting DESKTOP_SESSION=fluxbox
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LOGNAME=pi
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting GDM_LANG=en_US.utf8
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session4
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=fluxbox
+dbus-update-activation-environment: setting XAUTHORITY=/home/pi/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/pi
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=fluxbox
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting LC_ALL=en_US.UTF-8
+dbus-update-activation-environment: setting PWD=/home/pi
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/home/pi/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+/home/pi/.fluxbox/startup: 23: /home/pi/.fluxbox/startup: xdg-user-dirs-gtk-update: not found
+wmalauncher ver. 2020.0124 - (c) 2018-2020, Sébastien Ballet <slacker6896@gmail.com> -
+
+wmalauncher ver. 2020.0124 - (c) 2018-2020, Sébastien Ballet <slacker6896@gmail.com> -
+
+wmalauncher ver. 2020.0124 - (c) 2018-2020, Sébastien Ballet <slacker6896@gmail.com> -
+
+wmalauncher ver. 2020.0124 - (c) 2018-2020, Sébastien Ballet <slacker6896@gmail.com> -
+
+WARNING: Setting geometry in section global doesn't exist
+WARNING: Setting notification_height in section global doesn't exist
+WARNING: Setting line-height in section global doesn't exist
+WARNING: Setting startup_notification in section global doesn't exist
+WARNING: Setting verbosity in section global doesn't exist
+WARNING: Section shortcuts is deprecated.
+Acting on notifications has been moved to its own utility. For more information, see the manual for dunstctl.
+Ignoring this section.
+No touchscreen is found
+WARNING: More than one Desktop window found:
+        0x 1000021   3            
+        0x 1000008   3            
+Keys: Invalid key/modifier on line 56): Control Mod1 Bksp :Exit
+Keys: Invalid key/modifier on line 75): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 76): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 111): Mod1 F5 :Kill
+Keys: Invalid key/modifier on line 180): Mod1 KP_End    :MacroCmd {ResizeTo 50% 50% } {MoveTo 00 00 BottomLeft}
+Keys: Invalid key/modifier on line 181): Mod1 KP_Down   :MacroCmd {ResizeTo 100% 50%} {MoveTo 00 00 Bottom}
+Keys: Invalid key/modifier on line 182): Mod1 KP_Next   :MacroCmd {ResizeTo 50% 50% } {MoveTo 00 00 BottomRight}
+Keys: Invalid key/modifier on line 183): Mod1 KP_Left   :MacroCmd {ResizeTo 50% 100%} {MoveTo 00 00 Left}
+Keys: Invalid key/modifier on line 184): Mod1 KP_Right  :MacroCmd {ResizeTo 50% 100%} {MoveTo 00 00 Right}
+Keys: Invalid key/modifier on line 185): Mod1 KP_Home   :MacroCmd {ResizeTo 50% 50% } {MoveTo 00 00 TopLeft}
+Keys: Invalid key/modifier on line 186): Mod1 KP_Up     :MacroCmd {ResizeTo 100% 50%} {MoveTo 00 00 Up}
+Keys: Invalid key/modifier on line 187): Mod1 KP_Prior  :MacroCmd {ResizeTo 50% 50% } {MoveTo 00 00 TopRight}
+Keys: Invalid key/modifier on line 189): Mod1 KP_Begin  :MacroCmd {ResizeTo 70% 70% } {MoveTo 00 00 Center}
+Keys: Invalid key/modifier on line 191): Mod1 KP_Insert :ToggleCmd {Maximize} {Restore}
+
+(blueman-applet:15715): Gdk-CRITICAL **: 18:06:29.847: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+libpng warning: iCCP: known incorrect sRGB profile
+dbus[15967]: Unable to set up transient service directory: XDG_RUNTIME_DIR "/run/user/1000" is owned by uid 1000, not our uid 0
+conky: no process found
+conky: desktop window (365) is root window
+conky: window type - normal
+conky: drawing to created window (0x3800001)
+conky: drawing to double buffer
+umount: /dev/sda9: no mount point specified.
+umount: /dev/sda8: no mount point specified.
+umount: /dev/sda7: no mount point specified.
+umount: /dev/sda6: no mount point specified.
+umount: /dev/sda5: no mount point specified.
+umount: /dev/sda4: no mount point specified.
+umount: /dev/sda3: no mount point specified.
+umount: /dev/sda2: no mount point specified.
+umount: /dev/sda1: no mount point specified.
+dd: failed to open '/dev/sda': No medium found
+lxpolkit: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+(volumeicon:15792): Gdk-WARNING **: 18:06:59.020: GdkWindow 0x2a0000b unexpectedly destroyed
+
+(nm-applet:15714): Gdk-WARNING **: 18:06:59.023: GdkWindow 0xe0000b unexpectedly destroyed
+
+(blueman-applet:15715): Gdk-WARNING **: 18:06:59.024: GdkWindow 0x1800013 unexpectedly destroyed
+Gdk-Message: 18:06:59.033: nm-applet: Fatal IO error 104 (Connection reset by peer) on X server :0.
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 230 requests (229 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 251 requests (250 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 231 requests (230 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 230 requests (229 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 230 requests (229 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 230 requests (229 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 230 requests (229 known processed) with 0 events remaining.
+wmalauncher ver. 2020.0124 - (c) 2018-2020, Sébastien Ballet <slacker6896@gmail.com> -
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 230 requests (229 known processed) with 0 events remaining.
+Gdk-Message: 18:06:59.067: volumeicon: Fatal IO error 104 (Connection reset by peer) on X server :0.
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 2045 requests (2045 known processed) with 67 events remaining.
+Gdk-Message: 18:06:59.076: blueman-applet: Fatal IO error 104 (Connection reset by peer) on X server :0.
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 1338 requests (1338 known processed) with 0 events remaining.
+mx-usb-unmounter: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+wmalauncher ver. 2020.0124 - (c) 2018-2020, Sébastien Ballet <slacker6896@gmail.com> -
+
+wmalauncher ver. 2020.0124 - (c) 2018-2020, Sébastien Ballet <slacker6896@gmail.com> -
+
+wmalauncher ver. 2020.0124 - (c) 2018-2020, Sébastien Ballet <slacker6896@gmail.com> -
+
+The X11 connection broke (error 1). Did the X11 server die?

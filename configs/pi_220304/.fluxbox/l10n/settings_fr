@@ -1,0 +1,35 @@
+[begin] (Paramètres)
+    [exec] (Backup) {grsync}
+    [submenu] (Configurer)
+        [exec] (Applications) {exo-open ~/.fluxbox/apps}
+        [exec] (Init) {exo-open ~/.fluxbox/init}
+        [exec] (Touches) {exo-open ~/.fluxbox/keys}
+        [submenu] (Menus) 
+            [exec] (Principal) {exo-open ~/.fluxbox/l10n/menu-mx_fr}
+            [exec] (Apparence) {exo-open ~/.fluxbox/l10n/appearance_fr}
+            [exec] (Paramètres) {exo-open ~/.fluxbox/l10n/settings_fr}
+            [exec] (Masquer) {exo-open ~/.fluxbox/l10n/out-of-sight_fr}
+        [end]
+        [exec] (Overlay) {exo-open ~/.fluxbox/overlay}
+        [exec] (Démarrage) {featherpad ~/.fluxbox/startup}
+        [exec] (Apparences) {thunar ~/.fluxbox/styles/}
+        [config] (Fenêtre)         
+    [end]
+    [submenu] (Affichage)
+        [exec] (Changer) {env SUDO_ASKPASS=/usr/lib/rc-gui/pwdrcg.sh sudo -AE arandr}
+        [exec](Écran tactile) {xdg-open /usr/share/mxflux/help/touchscreen-display}
+    [end]
+    [submenu] (Clavier)
+        [exec] (DE) {setxkbmap de}
+        [exec] (ES) {setxkbmap es} 
+        [exec] (FR) {setxkbmap fr}
+        [exec] (GB) {setxkbmap gb}
+        [exec] (GR) {setxkbmap gr}
+        [exec] (JA) {setxkbmap ja}
+        [exec] (IT) {setxkbmap it}
+        [exec] (PL) {setxkbmap pl}
+        [exec] (PT) {setxkbmap pt}
+        [exec] (RU) {setxkbmap ru}
+        [exec] (US) {setxkbmap us}
+    [end]
+[end]

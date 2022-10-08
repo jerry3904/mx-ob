@@ -1,0 +1,8 @@
+Wireframe "use transparent interior"
+UpgradeType=dist-upgrade
+UpgradeAssumeYes=true
+UpgradeAutoClose=true
+LeftClick=ViewAndUpgrade
+CheckForAutoRemovables=false
+WireframeTransparent=true
+IconLook=wireframe-dark

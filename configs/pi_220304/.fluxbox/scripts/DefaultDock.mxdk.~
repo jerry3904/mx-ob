@@ -1,0 +1,26 @@
+#!/bin/bash
+
+pkill wmalauncher
+
+#set up slit location
+sed -i 's/^session.screen0.slit.placement:.*/session.screen0.slit.placement: LeftCenter/' $HOME/.fluxbox/init
+#sed -i 's/^session.screen0.slit.placement:.*/session.screen0.slit.placement: LeftCenter/' $HOME/.fluxbox/init
+
+#fluxbox-remote restart; sleep 1
+
+# TOOLTIPS
+TTIPS+=" --tooltip-show-delay       250"
+TTIPS+=" --tooltip-text-padding     3"
+TTIPS+=" --tooltip-border-size		3"
+TTIPS+=" --tooltip-foreground-color black"
+TTIPS+=" --tooltip-background-color #d3d3d3"
+
+#commands for dock launchers
+wmalauncher --command mxfb-help --icon /usr/share/icons/Moka/48x48/apps/wine-help.png --background-color black --border-color black --window-size 48 --tooltip-text "Manual" $TTIPS& sleep 0.1
+wmalauncher --desktop-file mx-tools.desktop --background-color black --border-color black --window-size 48 --tooltip-text "MX Tools" $TTIPS& sleep 0.1
+wmalauncher --desktop-file featherpad.desktop --background-color black --border-color black --window-size 48& sleep 0.1
+wmalauncher --desktop-file rc_gui.desktop --background-color black --border-color black --window-size 48 --tooltip-text "Raspberry Pi Config" $TTIPS& sleep 0.1
+wmalauncher --desktop-file lxtask.desktop --background-color black --border-color black --window-size 48 --tooltip-text "Tasks" $TTIPS& sleep 0.1
+wmalauncher --desktop-file libreoffice-startcenter.desktop --background-color black --border-color black --window-size 48 --tooltip-text "Office suite" $TTIPS& sleep 0.1
+wmalauncher --desktop-file deadbeef.desktop --background-color black --border-color black --window-size 48 --tooltip-text "Music" $TTIPS& sleep 0.1
+wmalauncher --desktop-file vlc.desktop --background-color black --border-color black --window-size 48 --tooltip-text "Multimedia" $TTIPS& sleep 0.1

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=xvkbd
+GenericName=X Virtual Keyboard
+Exec=xvkbd
+Categories=System;Utility;
+Type=Application
+icon=input-keyboard
+Keywords=keyboard;input
+Icon=input-keyboard
+Comment=
+Path=
+Terminal=false
+StartupNotify=false

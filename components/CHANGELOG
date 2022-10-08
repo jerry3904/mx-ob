@@ -1,0 +1,31 @@
+01.22.21 
+
+Initial release (beta)
+
+01.31.21 B2
+
+*added ntp
+*mx repo altered to filter out packages that could harm system
+*changed login page, moving signin panel up and changing style
+*added onboard screen keyboard
+*continued cleaning out unnecessary packages (Xfce, LXDE, etc.)
+*installed all upgrades since release, including VLC 3.0.12-1
+*added "Recent files" to Fluxbox menu
+*updated config files
+*fixed VLC, added preferences > Video > Output: Open GL for embedded...
+*added missing tooltip
+*switched to Palemoon as default browser
+*continued centering apps
+*installed rpi
+*volumeicon: changed mixer to pavucontrol
+*added a key to call blueman-manager
+*deleted useless or non-working keys
+
+[next time]
+* installed MX Job Scheduler
+* generated common locales
+* reworked rootMenu "Settings" to take RPi Config into account 
+* removed MX Users Manual
+* upgraded exit-options, new horizontal option
+* fixed bluetooth headphones issues
+* added "Recent files" to rootMenu

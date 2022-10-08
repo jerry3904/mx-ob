@@ -1,0 +1,33 @@
+#the default versions of the submenus are located in /usr/share/mxfb-menu/fluxbox
+
+[begin] (Fluxbox)
+    [exec] (Toutes les applications) {rofi -show drun}
+    [submenu] (Fichiers récents) 
+        [include] (~/.fluxbox/submenus/recent_files_menu)
+        [separator]
+        [exec] (Liste des mises à jour) {~/.fluxbox/scripts/recentfiles-fbmenu}
+    [end]
+    [separator]
+    [exec] (Navigateur) {sensible-browser}
+    [exec] (Gestionnaire de fichiers) {thunar} 
+    [exec] (Aide) {mxfb-help}
+    [exec] (Musique) {deadbeef}
+    [exec] (Démarrer) {fbrun}
+    [exec] (Gestionnaire des paramètres) {custom-toolbox /etc/custom-toolbox/mxfb-settings.list} 
+    [exec] (Terminal) {xfce4-terminal} 
+        [separator]
+    [submenu] (Apparence)
+        [include] (~/.fluxbox/l10n/appearance_fr)
+    [end]
+    [submenu] (Paramètres)
+        [include] (~/.fluxbox/l10n/settings_fr)
+    [end]
+    [submenu] (Masquer)
+        [include] (~/.fluxbox/l10n/out-of-sight_fr)
+    [end]
+    [submenu] (Quitter)
+        [exec] (Rafraîchir) { fluxbox-remote restart; idesktoggle idesk refresh }
+        [exit] (A la déconnexion) 
+        [exec] (Arrêter) {sudo /sbin/halt}
+    [end]
+[end]

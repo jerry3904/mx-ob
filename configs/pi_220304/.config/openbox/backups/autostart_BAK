@@ -1,0 +1,46 @@
+#
+# These things are run when an Openbox X Session is started.
+#
+
+# use previous background 
+$HOME/.fehbg
+
+# add a systray
+# config file: ~/.stalonetrayrc
+stalonetray --dockapp-mode simple &
+
+# start a system monitor
+gkrellm &
+
+# add desktop icons
+idesktoggle idesk on 1>null 2>&1 &
+
+# add a copy manager
+xfce4-clipman &
+
+# network icon for systray
+dhcpcd-gtk &
+
+# add root access
+lxpolkit &
+
+# enable right-click on touchscreen
+evdev-rce &
+
+# advanced finger motions
+touchegg &
+
+# start pulseaudio before volumeicon so unmute works
+start-pulseaudio-x11 &
+sleep 2
+volumeicon -c volumeicon-fluxbox & 
+
+# export Qt variables
+export QT_QPA_PLATFORMTHEME=gtk2
+export QT_PLATFORMTHEME=gtk2
+export QT_PLATFORM_PLUGIN=gtk2
+
+
+
+
+

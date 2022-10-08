@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<openbox_menu xmlns="http://openbox.org/"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://openbox.org/
+                file:///usr/share/openbox/menu.xsd">
+
+<menu id="root-menu" label="Openbox 3">
+     <item label="All apps">
+    <action name="Execute"><execute>rofi -show drun</execute></action>
+  </item>
+  <item label="Menu--detailed">
+    <action name="Execute"><execute>xfce4-appfinder</execute></action>
+  </item>
+  <separator />
+    <item label="Browser">
+    <action name="Execute"><execute>x-www-browser</execute></action>
+  </item>
+     <item label="File manager">
+    <action name="Execute"><execute>thunar</execute></action>
+  </item>
+    <item label="Help">
+    <action name="Execute"><execute>thunar /usr/share/mxflux/help/</execute></action>
+  </item>
+    <item label="Run">
+    <action name="Execute"><execute>fbrun</execute></action>
+  </item>
+  <item label="Terminal">
+    <action name="Execute"><execute>x-terminal-emulator --drop-down</execute></action>
+  </item>
+   <separator />
+  <menu id="Appearance.menu" label="Appearance">
+       <item
+      label="Conky"
+      icon="ICON"
+    >
+      <action name="Execute"><execute>conky-manager2</execute></action>
+    </item>
+        <item
+      label="Dock (touchscreen)"
+      icon="ICON"
+    >
+      <action name="Execute"><execute>tint2 ~/.config/tint2/touchscreen/touch-dock-tint2rc</execute></action>
+    </item>
+      <item
+      label="Monitors"
+      icon="ICON"
+    >
+      <action name="Execute"><execute>gkrellm</execute></action>
+   </item>
+         <item
+      label="Theme"
+      icon="ICON"
+    >
+      <action name="Execute"><execute>obconf</execute></action>
+   </item>
+     <item
+      label="Wallpaper"
+      icon="ICON"
+    >
+      <action name="Execute"><execute>/usr/local/bin/feh-setbg</execute></action>
+    </item>
+    </menu>
+  <menu id="Settings.menu" label="Settings">
+      <item
+      label="Autostart"
+      icon="ICON"
+    >
+      <action name="Execute"><execute>featherpad ~/.config/openbox/autostart</execute></action>
+    </item>
+    <item
+    label="Basic settings"
+    icon="ICON"
+  >
+    <action name="Execute"><execute>obconf</execute></action>
+    </item>
+      <item
+    label="Display"
+    icon="ICON"
+  >
+    <action name="Execute"><execute>arandr</execute></action>
+    </item>
+        <item
+      label="Keys"
+      icon="ICON"
+    >
+      <action name="Execute"><execute>obkey</execute></action>
+    </item>
+     <item
+      label="Menu--desktop"
+      icon="ICON"
+    >
+      <action name="Execute"><execute>featherpad ~/.config/openbox/menu.xml</execute></action>
+    </item>
+      <separator />
+         <item
+      label="MX Settings manager"
+      icon="ICON"
+    >
+      <action name="Execute"><execute>custom-toolbox /etc/custom-toolbox/mxfb-settings.list</execute></action>
+   </item>
+            <item
+      label="Detailed settings"
+      icon="ICON"
+    >
+      <action name="Execute"><execute>featherpad ~/.config/openbox/rc.xml</execute></action>
+   </item>
+    </menu>
+      <menu id="Out_of_sight.menu" label="Out of sight">
+   <item
+      label="Conky (toggle)"
+      icon="ICON"
+    >
+      <action name="Execute"><execute>conkytoggle.sh</execute></action>
+   </item>
+      <item
+      label="Desktop icons (toggle)"
+      icon="ICON"
+    >
+      <action name="Execute"><execute>idesktoggle icons</execute></action>
+   </item>
+   <item
+      label="Touch dock (toggle)"
+      icon="ICON"
+    >
+      <action name="Execute"><execute>~/.fluxbox/scripts/toggletint2-touch-dock</execute></action>
+   </item>
+      <item
+      label="Systray"
+      icon="ICON"
+    >
+          <action name="Execute"><execute>~/.fluxbox/scripts/toggletint2-touch-dock</execute></action>
+   </item>
+   </menu>
+      <menu id="Leave.menu" label="Leave">
+      <item
+      label="Refresh"
+      icon="ICON" 
+      >
+      <action name="Execute"><execute>openbox --reconfigure</execute></action>
+    </item>
+      <item
+      label="Exit"
+      icon="ICON"
+    >
+      <action name="Execute"><execute>openbox --exit</execute></action>
+   </item>
+       <item
+      label="Shutdown"
+      icon="ICON"
+    >
+      <action name="Execute"><execute>sudo /sbin/halt</execute></action>
+   </item>
+	</menu>
+</openbox_menu>

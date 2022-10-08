@@ -1,0 +1,9 @@
+/*set custom gtk3/css code below */
+
+# widen the scrollbar for touchscreen use
+
+scrollbar, scrollbar button, scrollbar slider {
+    min-width: 15px;
+    min-height: 15px;
+}
+
