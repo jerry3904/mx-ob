@@ -1,0 +1,51 @@
+#
+# These things are run when an Openbox X Session is started.
+#
+
+# add a systray
+# config file: ~/.stalonetrayrc
+stalonetray --dockapp-mode simple &
+
+# start a system monitor
+gkrellm &
+
+#localize openbox menu
+( which mxfb-menu-fb-l10n >/dev/null  && mxfb-menu-ob-l10n ) &
+
+# add desktop icons
+idesktoggle idesk on 1>/dev/null 2>&1 &
+
+# add items to systray 
+xfce4-clipman &
+nm-applet &
+touchpad-indicator &
+
+# get last background selected
+nitrogen --restore
+
+# add root access
+/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1 &
+
+# add root access
+lxpolkit &
+
+# use a compositor
+#compton &
+
+# start pulseaudio before volumeicon so unmute works
+start-pulseaudio-x11 &
+sleep 2
+volumeicon -c volumeicon-fluxbox & 
+
+# put apt-notifier on the toolbar
+(sleep 6; /usr/bin/apt-notifier) &
+
+# export Qt variables
+export QT_QPA_PLATFORMTHEME=gtk2
+export QT_PLATFORMTHEME=gtk2
+export QT_PLATFORM_PLUGIN=gtk2
+
+
+
+
+
