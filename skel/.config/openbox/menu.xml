@@ -184,5 +184,10 @@
     >
       <action name="Execute"><execute>sudo /sbin/halt</execute></action>
    </item>
+   <item label="Restart">
+		<action name="Execute">
+		        <command>systemctl reboot</command>
+		</action>
+	</item>
 	</menu>
 </openbox_menu>
