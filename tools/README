@@ -12,6 +12,8 @@ Rscript fluxbox.R
 6) paste the new menu back into this folder
 
 --------------
+FLUXBOX ONLY
+--------------
 Procedure added to MenuTransitems.csv to get around "include" problems in other languages
 
 --copy the header row in the spreadsheet of translations with the language codes

@@ -1,7 +1,7 @@
 # Localize base file(s) based on a translations file
 # 2021-05-14 Ben Bond-Lamberty
 
-BASE_FILES <- "menu-xml_template"
+BASE_FILES <- "menu.xml_template"
 TRANSLATIONS <- "MenuTransItems.csv"
 
 OUTPUT_DIR <- "../menu-translations/"
