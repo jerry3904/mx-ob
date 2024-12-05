@@ -1,7 +1,8 @@
-mxob (unknown+nmu1) UNRELEASED; urgency=medium
+mxob (unknowo) UNRELEASED; urgency=medium
 
   * Added changelog. 
   * Set up initial translation documents
   * Added 11 translations of mxob-help 
+  * Provided translation mechanism of menu.xml
 
- -- Jerry3904 <mxdevs@mx>  Tue, 03 Dec 2024 11:27:51 -0500
+ -- Jerry3904 <mxdevs@mx>  Thu, 05 Dec 2024 12:44:01 -0500

@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
 
 Package: mx-ob
-Architecture: amd64
+Architecture: arm64
 Replaces: 
-Depends: ${misc:Depends} obconf stalonetray 
+Depends: ${misc:Depends} obconf-qt stalonetray, tdc, obmenu2, obkey 
 Description: An unofficial respin of MX-Linux with Openbox as WM
