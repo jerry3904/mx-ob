@@ -1,1 +1,1 @@
-For each language, replace the B column with matching translations in the file translations.csv. Be sure to add the correct two-letter language code in cell B1 because it will be used by the code to identify the translation.
+For each language, fill column B of the file "translations.csv" with matching translations of the terms in column A using DeepL or another source. Add the correct two-letter language code in cell B1 that will be used by the code to identify the translation.

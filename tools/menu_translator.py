@@ -20,12 +20,12 @@ with open("translate.csv", "r") as f:
                 if m.tag == "{http://openbox.org/}item":
                     if m.get('label') == lines[0]:
                         m.set("label",lines[1].lstrip())
-                    for menu in root.findall('.//{*}menu', ns):
-		for m in menu.iter():
+        for menu in root.findall('.//{*}menu', ns):
+            for m in menu.iter():
                 if m.tag == "{http://openbox.org/}menu":
                     if m.get('label') == lines[0]:
                         m.set("label",lines[1].lstrip())
-
+                        
 # Pretty Print and write to file
 print()
 tree = ET.ElementTree(root)

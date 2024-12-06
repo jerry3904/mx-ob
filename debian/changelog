@@ -5,5 +5,6 @@ mxob (unknowo) UNRELEASED; urgency=medium
   * Added 11 translations of mxob-help 
   * Provided translation mechanism of menu.xml
   * Corrected the translating code, added a README 
+  * Generated 8 menu translations
 
- -- Jerry3904 <mxdevs@mx>  Fri, 06 Dec 2024 11:16:06 -0500
+ -- Jerry3904 <mxdevs@mx>  Fri, 06 Dec 2024 15:23:29 -0500

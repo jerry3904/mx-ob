@@ -1,36 +1,36 @@
-,de
-All apps,Alle Anwendungen
-Appearance,Erscheinungsbild
-Autostart,Autostart
-Basic setup,Grundlegende Einrichtung
-Browser,Browser
-Clock,Uhr
+,ru
+All apps,Все приложения
+Appearance,Внешний вид
+Autostart,Автозапуск
+Basic setup,Основные настройки
+Browser,Браузер
+Clock,Часы
 Conky,Conky
-Desktop,Schreibtisch
-Desktop icons,Desktop-Symbole
-Detailed ,Ausführlich 
-Detailed config,Detaillierte Konfiguration
-Display,Anzeige
-Dock,Dock
-File manager,Datei-Manager
-Keys,Tasten
-Leave,Verlassen
-Log Out,Abmelden
-Menu,Menü
-Monitors,Monitore
-First Aid,Erste Hilfe
-MX Tools,MX-Werkzeuge
-MX Users Manual,MX-Benutzerhandbuch
-Notification area,Benachrichtigungsbereich
-Out of sight,Unsichtbar
+Desktop,Рабочий стол
+Desktop icons,Иконки рабочего стола
+Detailed ,Подробно
+Detailed config,Детальная настройка
+Display,Отображение
+Dock,Док
+File manager,Файловый менеджер
+Keys,Клавиши
+Leave,Покинуть
+Log Out,Выход
+Menu,Меню
+Monitors,Мониторы
+First Aid,Первая помощь
+MX Tools,Инструменты MX
+MX Users Manual,Руководство пользователя MX
+Notification area,Область уведомлений
+Out of sight,Вне поля зрения
 Raspberry Pi,Raspberry Pi
-Refresh,Aktualisieren
-Restart,Neu starten
+Refresh,Обновить
+Restart,Перезапустить
 Rofi,Rofi
-Run,Ausführen
-Settings,Einstellungen
-Shutdown,Herunterfahren
+Run,Запустить
+Settings,Настройки
+Shutdown,Выключить
 Systray,Systray
-Terminal,Terminal
-Theme,Thema
-Wallpaper,Hintergrundbild
+Terminal,Терминал
+Theme,Тема
+Wallpaper,Обои

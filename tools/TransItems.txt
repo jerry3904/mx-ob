@@ -1,0 +1,35 @@
+All apps
+Appearance
+Autostart
+Basic setup
+Browser
+Clock
+Conky
+Desktop
+Desktop icons
+Detailed 
+Detailed config
+Display
+Dock
+File manager
+Keys
+Leave
+Log Out
+Menu
+Monitors
+First Aid
+MX Tools
+MX Users Manual
+Notification area
+Out of sight
+Raspberry Pi
+Refresh
+Restart
+Rofi
+Run
+Settings
+Shutdown
+Systray
+Terminal
+Theme
+Wallpaper
