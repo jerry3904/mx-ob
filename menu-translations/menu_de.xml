@@ -45,7 +45,7 @@
       </action>
     </item>
     <separator />
-    <menu id="Appearance.menu" label="Appearance">
+    <menu id="Appearance.menu" label="Erscheinungsbild">
       <item label="Conky">
         <action name="Execute">
           <execute>conky-manager2</execute>
@@ -77,7 +77,7 @@
         </action>
       </item>
     </menu>
-    <menu id="Settings.menu" label="Settings">
+    <menu id="Settings.menu" label="Einstellungen">
       <item label="Autostart">
         <action name="Execute">
           <execute>featherpad ~/.config/openbox/autostart</execute>
@@ -103,7 +103,7 @@
           <execute>obkey</execute>
         </action>
       </item>
-      <menu id="menu-7065141" label="Menu">
+      <menu id="menu-7065141" label="Menü">
         <item label="Alle Anwendungen">
           <action name="Execute">
             <execute>featherpad ~/.config/jgmenu/jgmenurc</execute>
@@ -120,7 +120,7 @@
           </action>
         </item>
       </menu>
-      <menu id="menu-2893040" label="Notification area">
+      <menu id="menu-2893040" label="Benachrichtigungsbereich">
         <item label="Systray">
           <action name="Execute">
             <execute>exo-open ~/.stalonetrayrc</execute>
@@ -145,7 +145,7 @@
         </item>
       </menu>
     </menu>
-    <menu id="Out_of_sight.menu" label="Out of sight">
+    <menu id="Out_of_sight.menu" label="Unsichtbar">
       <item label="Conky">
         <action name="Execute">
           <execute>conkytoggle.sh</execute>
@@ -166,7 +166,7 @@
           <execute>toggle-mx gkrellm</execute>
         </action>
       </item>
-      <menu id="menu-6251006" label="Notification area">
+      <menu id="menu-6251006" label="Benachrichtigungsbereich">
         <item label="Systray">
           <action name="Execute">
             <execute>toggle-mx stalonetray</execute>
@@ -179,7 +179,7 @@
         </item>
       </menu>
     </menu>
-    <menu id="exit-menu" label="Leave">
+    <menu id="exit-menu" label="Verlassen">
       <item label="Aktualisieren">
         <action name="Execute">
           <execute>openbox --reconfigure</execute>

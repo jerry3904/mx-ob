@@ -1,0 +1,1 @@
+For each language, replace the B column with matching translations in the file translations.csv. Be sure to add the correct two-letter language code in cell B1 because it will be used by the code to identify the translation.
