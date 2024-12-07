@@ -10,5 +10,6 @@ mxob (unknowo) UNRELEASED; urgency=medium
   * Reorganized repo
   * Added new configs, components, scripts
   * Reorganized some more, added skel and bin items
+  * Expanded control with many dependencies
 
- -- Jerry3904 <mxdevs@mx>  Sat, 07 Dec 2024 10:25:01 -0500
+ -- Jerry3904 <mxdevs@mx>  Sat, 07 Dec 2024 12:57:05 -0500
