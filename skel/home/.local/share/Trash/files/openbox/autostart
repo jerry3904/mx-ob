@@ -1,0 +1,71 @@
+#
+# These things are run when an Openbox X Session is started.
+#
+
+
+# add a systray
+# config: tint2manager
+tint2session
+
+# start a system monitor
+# gkrellm &
+
+# start wallpaper app
+~/.fehbg
+
+#localize openbox menu
+( which mxfb-menu-fb-l10n >/dev/null  && mxfb-menu-ob-l10n ) &
+
+# add desktop icons
+idesktoggle idesk on 1>/dev/null 2>&1 &
+
+# export Qt variables
+export QT_QPA_PLATFORMTHEME=gtk2
+export QT_PLATFORMTHEME=gtk2
+export QT_PLATFORM_PLUGIN=gtk2
+
+#set number of seconds before inactive screen turns off
+xset -dpms && xset s 300
+
+# add root access
+/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1 &
+
+# use a compositor
+compton &
+
+# put apt-notifier on the toolbar
+(sleep 6; /usr/bin/apt-notifier) &
+
+#place network manager on the toolbar
+nm-applet &
+
+# add a copy manager
+xfce4-clipman &
+
+#start a virtual keyboard
+onboard &
+
+#start bluetooth
+bluez
+blueman &
+
+# start user accessibility if it doesn't exist
+/usr/libexec/at-spi-bus-launcher --launch-immediately &
+
+# add a dock
+plank &
+
+#conky to follow conky toggle settings
+conkystart
+
+# start pipewire before volumeicon so unmute works
+pipewire-start
+sleep 2
+volumeicon -c volumeicon-fluxbox & 
+
+
+
+
+
+
+

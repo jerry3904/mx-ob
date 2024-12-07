@@ -1,0 +1,35 @@
+ #!/bin/bash
+
+# localize openbox menu
+#
+
+# default menu for all non-translated locales
+DFLT="$HOME/.config/openbox/menu.xml"
+# directory of localized menus 
+L10N="/usr/share/mxob/menu-translations"
+
+# trim region code from LANG
+LC="${LANG%%_*}"
+# in case LC is empty do nothing
+[ x"$LC" = "x" ] && exit 1
+
+# localized menu
+LCMN="$L10N/menu.xml_$LC"
+
+# default menu is in English
+MENU="$DFLT"
+
+# give localize menu to user 
+if [ -r "$LCMN" ]; then
+   #compare menus to see if same, do nothing if they are
+   #localized menus are always different from english default
+   STATUS="$(cmp --silent "$LCMN" "$MENU""; echo $?)"
+   if [[ $STATUS -eq 1 ]]; then
+      #backup exisitng menu
+      cp "$MENU" "$MENU$(date +"%Y%m%d%H%M%S")"
+      #copy menu, no lang code
+      cp "$LCMN" "$MENU"
+   fi
+fi
+
+exit 0

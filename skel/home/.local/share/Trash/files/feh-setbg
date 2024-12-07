@@ -1,0 +1,11 @@
+#!/bin/bash
+
+### change path to the source file to match your own 
+### =====================================
+source $HOME/.config/feh/feh-setbg.conf
+
+feh $RECUR -t -P -N -q -J 0 -y 160 -E 100 $WIDTH  \
+--scale-down --index-info "%n" --title "Wallpaper" \
+--fontpath /usr/share/fonts/truetype/dejavu/ \
+--font DejaVuSansCondensed.ttf/8 \
+--action ";feh $FEHBG $BGMOD %F" $IMDIR1 $IMDIR2 $IMDIR3 $IMDIR4 $IMDIR5

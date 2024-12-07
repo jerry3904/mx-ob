@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 24 Nov 2024 15:41:55 -0800
+Source: obmenu2
+Binary: obmenu2
+Architecture: source all
+Version: 1.05+git-1mx23+1
+Distribution: mx
+Urgency: low
+Maintainer: Steven Pusser <stevep@mxlinux.org>
+Changed-By: Steven Pusser <stevep@mxlinux.org>
+Description:
+ obmenu2    - graphical menu editor for the Openbox menu.xml file
+Changes:
+ obmenu2 (1.05+git-1mx23+1) mx; urgency=low
+ .
+   * Initial release.
+Checksums-Sha1:
+ bbea3a1d596d553dd74b4cd7587864abfae0fce2 1423 obmenu2_1.05+git-1mx23+1.dsc
+ 8ae78fb08503eeb55f97dfe7e375f8f2a3149fbc 20072 obmenu2_1.05+git.orig.tar.gz
+ 989c740286ae9e73bf3fc1c0ea73e7faa9c78671 2384 obmenu2_1.05+git-1mx23+1.debian.tar.xz
+ 37894758bbb50aff3fa39e72a6e727e266c00048 19584 obmenu2_1.05+git-1mx23+1_all.deb
+ 24488e1b3cde1e03d495ff6c746be7a7178fd3d5 5706 obmenu2_1.05+git-1mx23+1_amd64.buildinfo
+Checksums-Sha256:
+ 46dec9098a1338ca1047385a8cc2dc076b8d3a2b46e922579cc59e00601c7b98 1423 obmenu2_1.05+git-1mx23+1.dsc
+ 15e859f340d236d26e3930dd08a3c12fbf1e5971cbbacd2f9a798b6140bd4adc 20072 obmenu2_1.05+git.orig.tar.gz
+ afb259fb764bd5c1d8411d35943c9e79994ac0f2e185b2742b50f5f8804a7529 2384 obmenu2_1.05+git-1mx23+1.debian.tar.xz
+ 19da99c67c4a6a962f51c8a3db4c98efd5fe8a818d8572123efa846952bc07ac 19584 obmenu2_1.05+git-1mx23+1_all.deb
+ a98e5237d6e5eec58703c420736b5b9f6e0849a71aa9169439635cc3ba61b60d 5706 obmenu2_1.05+git-1mx23+1_amd64.buildinfo
+Files:
+ 6389bea90c32f8f846ece12e33af868b 1423 util optional obmenu2_1.05+git-1mx23+1.dsc
+ 54840354b4faa85b56d1722317b66c34 20072 util optional obmenu2_1.05+git.orig.tar.gz
+ cd203398843b6e21b02b60f82117b1c0 2384 util optional obmenu2_1.05+git-1mx23+1.debian.tar.xz
+ a39439eab576a0a713d1633c2d0f6de6 19584 util optional obmenu2_1.05+git-1mx23+1_all.deb
+ 7fe512c08869ff026f26180826f7ec72 5706 util optional obmenu2_1.05+git-1mx23+1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEECdpZQ174xznI7WFWE8dKIoksMvEFAmdD2KsTHHN0ZXZlcEBt
+eGxpbnV4Lm9yZwAKCRATx0oiiSwy8dyECAC61wFJxfWtt3VYElyozSwNyZG4AzmC
+DsrwxvnwaS+YGJaSKUb79ZJacMVxyi0XMK0/wQyrTe6eypxx7FUfIAAi2hXZcI6P
+0XFGYNKAWvUgelTA8WWWy85xsOj5OZLK5KMjNkq24G2t8R6ZCiyHSe0eBwV8MIRx
+8B3p05R2R4hit2HfdF6DDEZRv6fGQHMFM+d7SRfIYV7zunz1rao/2vtdLUCRvGXU
+4NJzaUGELTh2S0TRSB/94jlMFA47NPt+5hbdkYydBBBZ7L2ObmMShHhhNh8t2SA9
+OXOpbaiRAbFNZAgjlUVRfZuKCRf331ZynFoaB6DCLVqlSV4NiS9x2v5x
+=vHiu
+-----END PGP SIGNATURE-----

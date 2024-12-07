@@ -1,0 +1,13 @@
+Toutes les applications
+Navigateur
+Gestionnaire de fichiers
+Aide
+Terminal
+Conky
+Moniteurs
+Affichage
+Touches
+Menu--bureau
+Basculer conky
+Systray
+Quitter

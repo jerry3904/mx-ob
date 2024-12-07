@@ -1,0 +1,1 @@
+sed -n -r 's/.*<item[^>]* label="([^"]*)".*/\1/p' menu.xml

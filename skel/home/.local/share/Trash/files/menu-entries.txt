@@ -1,0 +1,36 @@
+All apps
+Browser
+File manager
+MX RPi Openbox
+MX Users Manual
+MX Tools
+Run
+Terminal
+Conky
+Desktop icons
+Dock
+Monitors
+Theme
+Wallpaper
+Autostart
+Detailed 
+Dock
+Display
+Keys
+All apps
+Desktop
+Rofi
+Systray
+Clock
+Basic setup
+Detailed config
+Conky
+Desktop icons
+Dock
+Monitors 
+Systray
+Clock
+Refresh
+Log Out
+Shutdown
+Restart

@@ -1,0 +1,29 @@
+All apps
+Browser
+File manager
+Help
+Run
+Terminal
+Tools
+Conky
+Desktop icons
+Monitors
+Systray
+Theme
+Wallpaper
+Autostart
+Basic settings
+Detailed settings
+Display
+Dock
+Keys
+Systray
+Menu--desktop
+Conky (toggle)
+Desktop icons (toggle)
+Dock (toggle)
+Systray (toggle)
+Refresh
+Log Out
+Shutdown
+Restart

@@ -9,5 +9,6 @@ mxob (unknowo) UNRELEASED; urgency=medium
   * Added final 3 menu translations
   * Reorganized repo
   * Added new configs, components, scripts
+  * Reorganized some more, added skel and bin items
 
- -- Jerry3904 <mxdevs@mx>  Sat, 07 Dec 2024 08:57:55 -0500
+ -- Jerry3904 <mxdevs@mx>  Sat, 07 Dec 2024 10:25:01 -0500

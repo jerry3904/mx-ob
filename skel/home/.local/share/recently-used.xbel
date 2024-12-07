@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/mxob/.fluxbox/backgrounds/README" added="2024-11-21T22:14:22.490213Z" modified="2024-11-21T22:14:22.490220Z" visited="2024-11-21T22:14:22.490214Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-readme"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-21T22:14:22.490217Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/MX-Linux/mx-dockmaker.conf" added="2024-11-21T22:21:29.818107Z" modified="2024-11-21T22:21:29.818114Z" visited="2024-11-21T22:21:29.818109Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-21T22:21:29.818111Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.fluxbox/backgrounds/THE_Jet_Dark_Metal_Rebuild.png" added="2024-11-21T22:43:57.303305Z" modified="2024-11-21T22:43:57.303313Z" visited="2024-11-21T22:43:57.303306Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-21T22:43:57.303309Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/obkey_22.10.16_all.deb" added="2024-11-22T01:33:06.252304Z" modified="2024-11-22T10:52:57.198569Z" visited="2024-11-22T01:33:06.252305Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T01:33:06.252307Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-11-22T10:52:57.198566Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/obmenu2-master/obmenu2" added="2024-11-22T01:33:51.709503Z" modified="2024-11-22T01:33:52.088370Z" visited="2024-11-22T01:33:51.709505Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T01:33:51.709508Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-11-22T01:33:52.088369Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/obmenu2-master/Makefile" added="2024-11-22T01:35:28.839824Z" modified="2024-11-22T01:35:28.839832Z" visited="2024-11-22T01:35:28.839825Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T01:35:28.839829Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/obmenu2-master/README.md" added="2024-11-22T01:36:19.356263Z" modified="2024-11-22T01:36:19.356271Z" visited="2024-11-22T01:36:19.356264Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T01:36:19.356268Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/jgmenu/cees_start.csv" added="2024-11-22T01:38:28.172492Z" modified="2024-11-22T01:38:28.172507Z" visited="2024-11-22T01:38:28.172494Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T01:38:28.172499Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/mxob/USB-DATA/jgmenu/cees_start.csv" added="2024-11-22T11:22:19.182872Z" modified="2024-11-22T11:27:05.717270Z" visited="2024-11-22T11:22:19.182874Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T11:27:05.717267Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/jgmenu/prepend.csv" added="2024-11-22T11:36:54.766094Z" modified="2024-11-22T11:36:54.766100Z" visited="2024-11-22T11:36:54.766095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T11:36:54.766096Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/mxob/4020-31F7/obkey_22.10.16_all%20(1).deb" added="2024-11-22T11:46:15.408262Z" modified="2024-11-22T11:46:34.737800Z" visited="2024-11-22T11:46:15.408263Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T11:46:34.737789Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Documents/exit-options" added="2024-11-22T14:33:12.855808Z" modified="2024-11-22T14:33:24.033502Z" visited="2024-11-22T14:33:12.855809Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T14:33:24.033499Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/exit-options-manager" added="2024-11-22T14:41:06.625420Z" modified="2024-11-22T14:41:06.943222Z" visited="2024-11-22T14:41:06.625421Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T14:41:06.625423Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-11-22T14:41:06.943221Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.fehbg" added="2024-11-22T15:08:08.361707Z" modified="2024-12-01T14:57:18.803190Z" visited="2024-11-22T15:08:08.361708Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T14:57:18.388366Z" count="4"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-01T14:57:18.803188Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/mxob/USB-DATA/openbox/menu.xml" added="2024-11-22T15:16:27.636409Z" modified="2024-11-22T15:16:27.956994Z" visited="2024-11-22T15:16:27.636412Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T15:16:27.636415Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-11-22T15:16:27.956992Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/openbox/menu.xml" added="2024-11-22T15:27:57.142537Z" modified="2024-12-03T19:31:49.966188Z" visited="2024-11-22T15:27:57.142539Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-03T19:31:49.530577Z" count="3"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-03T19:31:49.966187Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.fluxbox/fluxbox-mx-defaults" added="2024-11-22T15:40:50.425953Z" modified="2024-12-01T16:24:12.978044Z" visited="2024-11-22T15:40:50.425956Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T16:24:12.978038Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/toggletint2-touch-dock.txt" added="2024-11-22T17:26:19.798370Z" modified="2024-11-22T17:37:18.603789Z" visited="2024-11-22T17:26:19.798371Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="obmenu2" exec="&apos;obmenu2 %u&apos;" modified="2024-11-22T17:37:18.603786Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/toggletint2-touch-dock.txt" added="2024-11-22T17:34:51.684716Z" modified="2024-11-22T17:34:51.684727Z" visited="2024-11-22T17:34:51.684717Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T17:34:51.684721Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/RonR/my_command" added="2024-11-22T18:35:24.219807Z" modified="2024-11-22T18:35:24.219813Z" visited="2024-11-22T18:35:24.219809Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T18:35:24.219811Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/toggletint2_dock" added="2024-11-22T19:07:22.620777Z" modified="2024-11-29T18:51:03.199526Z" visited="2024-11-22T19:07:22.620778Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-29T18:51:03.199521Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-11-22T19:07:22.994342Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/mxob/USB-DATA/Documents/Forumpost" added="2024-11-22T20:40:29.012561Z" modified="2024-11-22T20:40:29.012569Z" visited="2024-11-22T20:40:29.012562Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T20:40:29.012565Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/passwd" added="2024-11-22T21:04:51.426099Z" modified="2024-11-22T21:04:51.426106Z" visited="2024-11-22T21:04:51.426101Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T21:04:51.426103Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/passwd-" added="2024-11-22T21:05:20.602087Z" modified="2024-11-22T21:05:20.602096Z" visited="2024-11-22T21:05:20.602089Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T21:05:20.602092Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/lightdm/users.conf" added="2024-11-22T21:06:22.730330Z" modified="2024-11-22T21:06:22.730338Z" visited="2024-11-22T21:06:22.730331Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T21:06:22.730334Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/lightdm/lightdm.conf" added="2024-11-22T21:06:39.913283Z" modified="2024-11-22T21:08:12.126444Z" visited="2024-11-22T21:06:39.913285Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T21:08:12.126439Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.conky/MX-Conkyglass/conkys" added="2024-11-22T21:25:18.616798Z" modified="2024-11-22T21:26:14.311657Z" visited="2024-11-22T21:25:18.616799Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-22T21:26:14.311653Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.conky/MX-Conkyglass/conkys_temp" added="2024-11-22T21:25:57.816217Z" modified="2024-11-22T21:25:57.816229Z" visited="2024-11-22T21:25:57.816218Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="featherpad" exec="&apos;featherpad %u&apos;" modified="2024-11-22T21:25:57.816223Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Documents/journalctl_bootlog_all" added="2024-11-24T14:16:32.086288Z" modified="2024-11-24T14:16:32.086294Z" visited="2024-11-24T14:16:32.086289Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-24T14:16:32.086291Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Documents/journalctl_pam" added="2024-11-24T14:16:46.861302Z" modified="2024-11-24T14:16:46.861311Z" visited="2024-11-24T14:16:46.861304Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-24T14:16:46.861307Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/dax.tar" added="2024-11-24T14:47:53.332022Z" modified="2024-11-24T14:47:53.763132Z" visited="2024-11-24T14:47:53.332024Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-24T14:47:53.332025Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-11-24T14:47:53.763129Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/plank_themes" added="2024-11-24T14:48:14.686635Z" modified="2024-11-24T14:49:51.272368Z" visited="2024-11-24T14:48:14.686637Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2024-11-24T14:49:51.272366Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/float-20180819073753.tar" added="2024-11-24T14:48:32.052389Z" modified="2024-11-24T14:48:32.475909Z" visited="2024-11-24T14:48:32.052392Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-24T14:48:32.052398Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-11-24T14:48:32.475905Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/FOGGY%20ROUND%203.1.tar" added="2024-11-24T14:48:53.441704Z" modified="2024-11-24T17:01:26.388925Z" visited="2024-11-24T14:48:53.441709Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-24T14:48:53.441713Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-11-24T17:01:26.388922Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads" added="2024-11-24T14:48:57.454018Z" modified="2024-11-25T02:24:43.280665Z" visited="2024-11-24T14:48:57.454019Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2024-11-25T02:24:43.280663Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/FOGGY%20SQUARE%203.1.tar" added="2024-11-24T14:49:44.913710Z" modified="2024-11-24T14:49:44.913722Z" visited="2024-11-24T14:49:44.913712Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-11-24T14:49:44.913716Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/plank_themes/dock.theme" added="2024-11-24T14:55:44.942210Z" modified="2024-11-24T14:55:45.192267Z" visited="2024-11-24T14:55:44.942211Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-11-24T14:55:45.192263Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/plank_themes/hover.theme" added="2024-11-24T14:55:57.512333Z" modified="2024-11-24T14:55:57.762670Z" visited="2024-11-24T14:55:57.512334Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-11-24T14:55:57.762667Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/doc/mx-locale/help/mx-locale.html" added="2024-11-24T16:54:35.365848Z" modified="2024-11-24T16:54:44.378651Z" visited="2024-11-24T16:54:35.365850Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-24T16:54:44.378646Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-11-24T16:54:35.739797Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/mx-locale_24.11.01_arm64.deb" added="2024-11-24T17:01:45.618186Z" modified="2024-11-24T17:01:45.618192Z" visited="2024-11-24T17:01:45.618187Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-24T17:01:45.618189Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/obmenu3-1.05.zip" added="2024-11-25T01:11:34.898695Z" modified="2024-11-25T01:11:35.495012Z" visited="2024-11-25T01:11:34.898696Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-25T01:11:34.898698Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-11-25T01:11:35.495010Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/obmenu3-1.05/obmenu2_1.05+git-1mx23_all.deb" added="2024-11-25T01:12:08.051026Z" modified="2024-11-25T01:12:08.051039Z" visited="2024-11-25T01:12:08.051028Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-25T01:12:08.051030Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/applications/obmenu2.desktop" added="2024-11-25T01:17:31.770905Z" modified="2024-11-25T01:17:31.770923Z" visited="2024-11-25T01:17:31.770906Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-25T01:17:31.770922Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/obmenu3-1.05-FIXED.zip" added="2024-11-25T02:24:38.494484Z" modified="2024-11-25T02:24:39.085867Z" visited="2024-11-25T02:24:38.494485Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-25T02:24:38.494487Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-11-25T02:24:39.085865Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/obmenu3-1.05-FIXED/obmenu2_1.05+git-1mx23+1_all.deb" added="2024-11-25T02:24:54.658942Z" modified="2024-11-25T02:24:54.658949Z" visited="2024-11-25T02:24:54.658943Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-25T02:24:54.658946Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/stalonetray_0.8.3-1+b1_arm64.deb" added="2024-11-26T11:14:05.097470Z" modified="2024-11-26T23:51:06.006012Z" visited="2024-11-26T11:14:05.097471Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-26T23:51:06.006009Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/stalonetrayrc" added="2024-11-26T11:17:34.130959Z" modified="2024-11-26T11:17:34.130966Z" visited="2024-11-26T11:17:34.130960Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-26T11:17:34.130963Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.stalonetrayrc" added="2024-11-26T11:20:55.929963Z" modified="2024-12-02T23:19:39.431624Z" visited="2024-11-26T11:20:55.929964Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-26T15:53:37.880438Z" count="7"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-02T23:19:39.431622Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.Xauthority" added="2024-11-26T14:46:02.733591Z" modified="2024-11-26T14:46:02.733597Z" visited="2024-11-26T14:46:02.733592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-26T14:46:02.733594Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.xsession-errors" added="2024-11-26T14:46:19.612432Z" modified="2024-11-26T14:46:19.612439Z" visited="2024-11-26T14:46:19.612433Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-26T14:46:19.612435Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/mxob/4020-31F7/stalonetray%20decoration" added="2024-11-26T14:47:27.029217Z" modified="2024-12-01T10:55:58.108968Z" visited="2024-11-26T14:47:27.029218Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T10:55:58.108964Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.Xdefaults" added="2024-11-26T15:03:15.674236Z" modified="2024-12-02T11:29:49.508842Z" visited="2024-11-26T15:03:15.674237Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T21:08:43.103350Z" count="14"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-02T11:29:49.508840Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/openbox/autostart" added="2024-11-26T15:18:56.857626Z" modified="2024-11-30T23:56:02.295176Z" visited="2024-11-26T15:18:56.857627Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-30T23:56:02.295173Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.Xresources" added="2024-11-26T16:49:05.724541Z" modified="2024-11-26T16:53:17.886186Z" visited="2024-11-26T16:49:05.724543Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-26T16:53:17.886183Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Documents/.Xdefaults" added="2024-11-26T16:53:31.095062Z" modified="2024-11-26T16:53:36.857333Z" visited="2024-11-26T16:53:31.095064Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-26T16:53:36.857330Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Downloads/dock.theme" added="2024-11-26T17:15:17.432786Z" modified="2024-12-01T20:43:54.304765Z" visited="2024-11-26T17:15:17.432787Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-11-26T17:15:17.682813Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T20:43:53.862924Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-01T20:43:54.304763Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.local/share/plank/themes/AyasBlue/dock.theme" added="2024-11-26T17:17:14.181046Z" modified="2024-11-26T17:17:14.181053Z" visited="2024-11-26T17:17:14.181047Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-theme"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-26T17:17:14.181049Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Documents/toggletint2_dock" added="2024-11-26T18:40:12.440512Z" modified="2024-11-29T18:48:46.110556Z" visited="2024-11-26T18:40:12.440514Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-26T18:40:12.440516Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-11-26T18:40:12.816509Z" count="1"/>
+          <bookmark:application name="obmenu2" exec="&apos;obmenu2 %u&apos;" modified="2024-11-29T18:48:46.110553Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/tint2session" added="2024-11-26T18:43:17.779478Z" modified="2024-11-26T18:43:18.080630Z" visited="2024-11-26T18:43:17.779479Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-26T18:43:17.779482Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-11-26T18:43:18.080629Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/tint2/tint2-sessionfile" added="2024-11-26T18:44:20.877852Z" modified="2024-11-26T18:44:20.877866Z" visited="2024-11-26T18:44:20.877854Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-26T18:44:20.877858Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/jgmenu/jgmenurc" added="2024-11-27T11:23:33.964736Z" modified="2024-11-27T11:23:33.964748Z" visited="2024-11-27T11:23:33.964741Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-27T11:23:33.964746Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/tint2-toggle-autohide.sh" added="2024-11-29T18:43:02.076738Z" modified="2024-12-01T11:04:04.791790Z" visited="2024-11-29T18:43:02.076739Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-29T18:45:28.144013Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-01T11:04:04.791786Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/toggletint2_dock" added="2024-11-29T18:54:05.836970Z" modified="2024-11-29T18:54:06.147387Z" visited="2024-11-29T18:54:05.836973Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-29T18:54:05.836976Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-11-29T18:54:06.147385Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/MX-Linux/apt-notifier.conf" added="2024-11-30T15:07:37.436799Z" modified="2024-12-03T19:36:37.252903Z" visited="2024-11-30T15:07:37.436801Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-03T19:36:36.948321Z" count="4"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-03T19:36:37.252899Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/apt-notifierrc" added="2024-11-30T15:10:12.828025Z" modified="2024-11-30T15:10:12.828034Z" visited="2024-11-30T15:10:12.828027Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-30T15:10:12.828029Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/mxfb-quickshot" added="2024-11-30T15:15:48.831882Z" modified="2024-11-30T15:15:49.228408Z" visited="2024-11-30T15:15:48.831883Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-30T15:15:48.831885Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-11-30T15:15:49.228407Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Pictures/quickshot_241130_101432.png" added="2024-11-30T17:40:32.321799Z" modified="2024-11-30T17:40:32.321806Z" visited="2024-11-30T17:40:32.321801Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-30T17:40:32.321803Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Pictures/quickshot_241130_124122.png" added="2024-11-30T17:41:43.808568Z" modified="2024-11-30T17:41:43.808574Z" visited="2024-11-30T17:41:43.808569Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-30T17:41:43.808571Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Pictures/quickshot_241130_124228.png" added="2024-11-30T17:42:45.121405Z" modified="2024-11-30T17:42:45.121411Z" visited="2024-11-30T17:42:45.121406Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-30T17:42:45.121408Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.conky/conky-startup.sh" added="2024-11-30T17:50:33.490434Z" modified="2024-11-30T21:19:45.446329Z" visited="2024-11-30T17:50:33.490435Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-30T21:19:45.446326Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-11-30T17:50:33.875212Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/applications/thunar.desktop" added="2024-11-30T18:49:21.690025Z" modified="2024-11-30T18:49:21.690034Z" visited="2024-11-30T18:49:21.690026Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-30T18:49:21.690029Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/mxflux/help/HELP_Display" added="2024-11-30T21:24:39.133419Z" modified="2024-11-30T21:24:39.133432Z" visited="2024-11-30T21:24:39.133421Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-30T21:24:39.133424Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Documents/HELP_Display" added="2024-11-30T21:29:45.970681Z" modified="2024-12-01T20:40:10.815527Z" visited="2024-11-30T21:29:45.970682Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T20:40:10.815522Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/raspiBackup.log" added="2024-11-30T21:59:11.765627Z" modified="2024-11-30T21:59:11.765634Z" visited="2024-11-30T21:59:11.765629Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-log"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-30T21:59:11.765631Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/autostart/lxrandr-autostart.desktop" added="2024-11-30T22:21:37.602667Z" modified="2024-12-01T00:47:20.190309Z" visited="2024-11-30T22:21:37.602669Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T00:47:20.190303Z" count="9"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-11-30T22:21:47.566860Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/mxob/4020-31F7/startup" added="2024-11-30T23:55:34.475187Z" modified="2024-11-30T23:55:34.897616Z" visited="2024-11-30T23:55:34.475188Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-11-30T23:55:34.475190Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-11-30T23:55:34.897614Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/mxob/4020-31F7/DIsplayDocumentation" added="2024-12-01T10:47:31.712450Z" modified="2024-12-01T10:47:31.712458Z" visited="2024-12-01T10:47:31.712451Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T10:47:31.712454Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Pictures/quickshot_241201_055454.png" added="2024-12-01T10:55:26.867536Z" modified="2024-12-01T10:55:26.867543Z" visited="2024-12-01T10:55:26.867537Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T10:55:26.867539Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Pictures/quickshot_241130_134358.png" added="2024-12-01T10:55:33.224197Z" modified="2024-12-01T10:55:33.224205Z" visited="2024-12-01T10:55:33.224199Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T10:55:33.224201Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/mxob/4020-31F7/quickshot_241130_101432.png" added="2024-12-01T10:56:22.670159Z" modified="2024-12-01T10:56:22.670165Z" visited="2024-12-01T10:56:22.670160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T10:56:22.670162Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/mxob/4020-31F7/desktop_241130.png" added="2024-12-01T10:56:35.070664Z" modified="2024-12-01T10:56:35.070671Z" visited="2024-12-01T10:56:35.070665Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T10:56:35.070667Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Pictures/quickshot_241201_071704.png" added="2024-12-01T12:17:28.123478Z" modified="2024-12-01T12:17:28.123485Z" visited="2024-12-01T12:17:28.123479Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T12:17:28.123482Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Pictures/quickshot_241201_081408.png" added="2024-12-01T13:14:29.176734Z" modified="2024-12-01T13:14:29.176742Z" visited="2024-12-01T13:14:29.176736Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T13:14:29.176738Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Pictures/quickshot_241201_071654.png" added="2024-12-01T13:14:48.912405Z" modified="2024-12-01T13:14:48.912413Z" visited="2024-12-01T13:14:48.912406Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T13:14:48.912409Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.fluxbox/lastwallpaper" added="2024-12-01T14:51:38.306091Z" modified="2024-12-01T14:51:38.306097Z" visited="2024-12-01T14:51:38.306092Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T14:51:38.306094Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.fluxbox/slitlist" added="2024-12-01T14:52:03.494491Z" modified="2024-12-01T14:52:03.494501Z" visited="2024-12-01T14:52:03.494493Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T14:52:03.494497Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.fluxbox/mxfb-menu-generator-disabled.chk" added="2024-12-01T14:58:50.491671Z" modified="2024-12-01T14:58:50.491680Z" visited="2024-12-01T14:58:50.491672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T14:58:50.491675Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.fluxbox/fbrun_history" added="2024-12-01T14:59:07.156073Z" modified="2024-12-01T14:59:07.156081Z" visited="2024-12-01T14:59:07.156074Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T14:59:07.156077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.fluxbox/mxfb-menu-generator-disabled.chk_BAK" added="2024-12-01T15:03:51.052804Z" modified="2024-12-01T15:03:51.052812Z" visited="2024-12-01T15:03:51.052806Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T15:03:51.052808Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.fluxbox/README" added="2024-12-01T16:20:44.113091Z" modified="2024-12-03T19:39:50.872889Z" visited="2024-12-01T16:20:44.113092Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-03T19:39:50.562265Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-03T19:39:50.872887Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Documents/audio_codes" added="2024-12-01T16:40:00.445364Z" modified="2024-12-01T16:43:08.876746Z" visited="2024-12-01T16:40:00.445365Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T16:43:08.876725Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/mxob/USB-DATA/openbox/fehlix_extract" added="2024-12-01T21:10:52.677182Z" modified="2024-12-01T21:10:52.677189Z" visited="2024-12-01T21:10:52.677184Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T21:10:52.677186Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/openbox/fehlix_extract" added="2024-12-01T21:12:06.958526Z" modified="2024-12-01T21:12:19.482125Z" visited="2024-12-01T21:12:06.958528Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T21:12:19.482122Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-01T21:12:07.344324Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/openbox/menu-entries.txt" added="2024-12-01T21:13:42.104890Z" modified="2024-12-01T21:13:42.415528Z" visited="2024-12-01T21:13:42.104891Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-01T21:13:42.104894Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-01T21:13:42.415526Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.gtkrc-2.0" added="2024-12-02T00:58:10.158254Z" modified="2024-12-02T00:58:10.646110Z" visited="2024-12-02T00:58:10.158255Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-02T00:58:10.158258Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-02T00:58:10.646108Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.gtkrc-2.0-mine" added="2024-12-02T00:58:21.558500Z" modified="2024-12-02T00:58:21.841611Z" visited="2024-12-02T00:58:21.558501Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-02T00:58:21.558505Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-02T00:58:21.841609Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/Documents/mxob-help" added="2024-12-02T13:51:53.632256Z" modified="2024-12-02T14:04:29.404949Z" visited="2024-12-02T13:51:53.632258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-02T14:04:29.404946Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-02T13:51:54.095583Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/mxob-help" added="2024-12-03T13:26:06.356596Z" modified="2024-12-07T12:27:19.923096Z" visited="2024-12-03T13:26:06.356597Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-07T12:27:19.923087Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-03T13:26:06.839825Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/openbox/menu_de.xml" added="2024-12-06T11:56:58.777130Z" modified="2024-12-06T11:56:59.232503Z" visited="2024-12-06T11:56:58.777131Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-06T11:56:58.777133Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-06T11:56:59.232500Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/openbox/scripts/menu_labels_command" added="2024-12-07T12:25:08.546603Z" modified="2024-12-07T12:25:08.988125Z" visited="2024-12-07T12:25:08.546605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-07T12:25:08.546607Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-07T12:25:08.988124Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/openbox/scripts/fehlix_extract" added="2024-12-07T12:25:16.872132Z" modified="2024-12-07T12:25:17.182677Z" visited="2024-12-07T12:25:16.872133Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-07T12:25:16.872136Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-07T12:25:17.182675Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mxob/.config/menus/xfce-settings-manager.menu" added="2024-12-07T13:38:42.980491Z" modified="2024-12-07T13:38:43.289488Z" visited="2024-12-07T13:38:42.980493Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-07T13:38:42.980495Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-07T13:38:43.289486Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/mxob/4020-31F7/tint2conf" added="2024-12-07T13:39:52.462975Z" modified="2024-12-07T13:39:52.462985Z" visited="2024-12-07T13:39:52.462977Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-07T13:39:52.462980Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/mxob/4020-31F7/tint2session" added="2024-12-07T13:40:04.865332Z" modified="2024-12-07T13:40:05.187882Z" visited="2024-12-07T13:40:04.865336Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-07T13:40:04.865340Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-07T13:40:05.187880Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/mxob/4020-31F7/openbox/schema.txt" added="2024-12-07T13:41:46.878604Z" modified="2024-12-07T13:41:47.196753Z" visited="2024-12-07T13:41:46.878609Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-07T13:41:46.878614Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2024-12-07T13:41:47.196751Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///%5Cmedia%5Cmxob%5C4020-31F7%5C.Trash-1000%5Cfiles%5Cstalonetray%2520decoration" added="2024-12-07T13:45:50.440709Z" modified="2024-12-07T13:45:50.440716Z" visited="2024-12-07T13:45:50.440710Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-12-07T13:45:50.440712Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

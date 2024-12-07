@@ -1,0 +1,31 @@
+All apps
+Browser
+File manager
+Help
+MX Tools
+Run
+Terminal
+Conky
+Dock
+Monitors
+Theme
+Wallpaper
+Autostart
+Detailed 
+Dock
+Display
+Keys
+All apps
+Desktop
+Rofi
+Raspberry Pi
+Systray
+Conky (toggle)
+Desktop icons (toggle)
+Dock (toggle)
+Monitors
+Systray
+Refresh
+Exit
+Shutdown
+Restart
