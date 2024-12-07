@@ -1,36 +1,36 @@
-,ru
-All apps,Все приложения
-Appearance,Внешний вид
-Autostart,Автозапуск
-Basic setup,Основные настройки
-Browser,Браузер
-Clock,Часы
-Conky,Conky
-Desktop,Рабочий стол
-Desktop icons,Иконки рабочего стола
-Detailed ,Подробно
-Detailed config,Детальная настройка
-Display,Отображение
-Dock,Док
-File manager,Файловый менеджер
-Keys,Клавиши
-Leave,Покинуть
-Log Out,Выход
-Menu,Меню
-Monitors,Мониторы
-First Aid,Первая помощь
-MX Tools,Инструменты MX
-MX Users Manual,Руководство пользователя MX
-Notification area,Область уведомлений
-Out of sight,Вне поля зрения
-Raspberry Pi,Raspberry Pi
-Refresh,Обновить
-Restart,Перезапустить
+,ja
+All apps,すべてのアプリ
+Appearance,外観
+Autostart,自動スタート
+Basic setup,基本設定
+Browser,ブラウザ
+Clock,時計
+Conky,コンキー
+Desktop,デスクトップ
+Desktop icons,デスクトップアイコン
+Detailed ,詳細設定 
+Detailed config,詳細設定
+Display,ディスプレイ
+Dock,ドック
+File manager,ファイルマネージャー
+Keys,キー
+Leave,退出
+Log Out,ログアウト
+Menu,メニュー
+Monitors,モニター
+First Aid,ファーストエイド
+MX Tools,MXツール
+MX Users Manual,MXユーザーマニュアル
+Notification area,通知エリア
+Out of sight,見えない場所
+Raspberry Pi,ラズベリーパイ
+Refresh,リフレッシュ
+Restart,再起動
 Rofi,Rofi
-Run,Запустить
-Settings,Настройки
-Shutdown,Выключить
-Systray,Systray
-Terminal,Терминал
-Theme,Тема
-Wallpaper,Обои
+Run,実行
+Settings,設定
+Shutdown,シャットダウン
+Systray,シストレ
+Terminal,ターミナル
+Theme,テーマ
+Wallpaper,壁紙
