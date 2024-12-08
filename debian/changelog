@@ -11,5 +11,8 @@ mxob (unknowo) UNRELEASED; urgency=medium
   * Added new configs, components, scripts
   * Reorganized some more, added skel and bin items
   * Expanded control with many dependencies
+  * Removed mxfb-accessories, manually replaced quickstart
+  * Corrected the menus since tint2-manager gone
+  * Updated Autostart
 
- -- Jerry3904 <mxdevs@mx>  Sat, 07 Dec 2024 12:57:05 -0500
+ -- Jerry3904 <mxdevs@mx>  Sun, 08 Dec 2024 09:49:31 -0500

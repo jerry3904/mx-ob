@@ -68,7 +68,7 @@ blueman-applet &
 /usr/libexec/at-spi-bus-launcher --launch-immediately &
 
 # add a dock
-tint2session
+tint2 -c ~/.config/tint2/dock-basic-tint2rc
 
 #conky to follow conky toggle settings
 conkystart

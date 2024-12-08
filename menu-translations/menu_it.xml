@@ -58,7 +58,7 @@
       </item>
       <item label="Dock">
         <action name="Execute">
-          <execute>tint2session</execute>
+          <execute>tint2 -c ~/.config/tint2/dock-basic-tint2rc</execute>
         </action>
       </item>
       <item label="Monitor">
@@ -90,7 +90,7 @@
       </item>
       <item label="Dock">
         <action name="Execute">
-          <execute>mxfb-tint2-manager</execute>
+          <execute>tint2conf</execute>
         </action>
       </item>
       <item label="Display">

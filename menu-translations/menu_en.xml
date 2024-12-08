@@ -1,115 +1,115 @@
 <?xml version='1.0' encoding='utf-8'?>
 <openbox_menu xmlns="http://openbox.org/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openbox.org/                                   file:///usr/share/openbox/menu.xsd">
   <menu id="root-menu" label="Openbox 3">
-    <item label="Όλες οι εφαρμογές">
+    <item label="All apps">
       <action name="Execute">
         <execute>jgmenu_run</execute>
       </action>
     </item>
     <separator />
-    <item label="Πρόγραμμα περιήγησης">
+    <item label="Browser">
       <action name="Execute">
         <execute>x-www-browser</execute>
       </action>
     </item>
-    <item label="Διαχείριση αρχείων">
+    <item label="File manager">
       <action name="Execute">
         <execute>thunar</execute>
       </action>
     </item>
     <menu id="menu-4258592" label="Help">
-      <item label="Πρώτες βοήθειες">
+      <item label="First Aid">
         <action name="Execute">
           <execute>mxob-help</execute>
         </action>
       </item>
-      <item label="Εγχειρίδιο χρηστών MX">
+      <item label="MX Users Manual">
         <action name="Execute">
           <execute>mx-manual</execute>
         </action>
       </item>
     </menu>
-    <item label="Εργαλεία MX">
+    <item label="MX Tools">
       <action name="Execute">
         <execute>mx-tools</execute>
       </action>
     </item>
-    <item label="Εκτέλεση">
+    <item label="Run">
       <action name="Execute">
         <execute>/usr/bin/mxfb-rofirun</execute>
       </action>
     </item>
-    <item label="Τερματικό">
+    <item label="Terminal">
       <action name="Execute">
         <execute>xfce4-terminal --drop-down</execute>
       </action>
     </item>
     <separator />
-    <menu id="Appearance.menu" label="Εμφάνιση">
+    <menu id="Appearance.menu" label="Appearance">
       <item label="Conky">
         <action name="Execute">
           <execute>conky-manager2</execute>
         </action>
       </item>
-      <item label="Εικονίδια επιφάνειας εργασίας">
+      <item label="Desktop icons">
         <action name="Execute">
           <execute>mx-idesktool</execute>
         </action>
       </item>
-      <item label="Αποβάθρα">
+      <item label="Dock">
         <action name="Execute">
           <execute>tint2 -c ~/.config/tint2/dock-basic-tint2rc</execute>
         </action>
       </item>
-      <item label="Οθόνες">
+      <item label="Monitors">
         <action name="Execute">
           <execute>gkrellm</execute>
         </action>
       </item>
-      <item label="Θέμα">
+      <item label="Theme">
         <action name="Execute">
           <execute>obconf-qt</execute>
         </action>
       </item>
-      <item label="Ταπετσαρία">
+      <item label="Wallpaper">
         <action name="Execute">
           <execute>/usr/bin/feh-setbg</execute>
         </action>
       </item>
     </menu>
-    <menu id="Settings.menu" label="Ρυθμίσεις">
-      <item label="Αυτόματη εκκίνηση">
+    <menu id="Settings.menu" label="Settings">
+      <item label="Autostart">
         <action name="Execute">
           <execute>featherpad ~/.config/openbox/autostart</execute>
         </action>
       </item>
-      <item label="Λεπτομερές">
+      <item label="Detailed ">
         <action name="Execute">
           <execute>featherpad ~/.config/openbox/rc.xml</execute>
         </action>
       </item>
-      <item label="Αποβάθρα">
+      <item label="Dock">
         <action name="Execute">
           <execute>tint2conf</execute>
         </action>
       </item>
-      <item label="Εμφάνιση">
+      <item label="Display">
         <action name="Execute">
           <execute>raindrop</execute>
         </action>
       </item>
-      <item label="Πλήκτρα">
+      <item label="Keys">
         <action name="Execute">
           <execute>obkey</execute>
         </action>
       </item>
-      <menu id="menu-7065141" label="Μενού">
-        <item label="Όλες οι εφαρμογές">
+      <menu id="menu-7065141" label="Menu">
+        <item label="All apps">
           <action name="Execute">
             <execute>featherpad ~/.config/jgmenu/jgmenurc</execute>
           </action>
         </item>
-        <item label="Επιφάνεια εργασίας">
+        <item label="Desktop">
           <action name="Execute">
             <execute>obmenu2</execute>
           </action>
@@ -120,43 +120,43 @@
           </action>
         </item>
       </menu>
-      <menu id="menu-2893040" label="Περιοχή ειδοποιήσεων">
+      <menu id="menu-2893040" label="Notification area">
         <item label="Systray">
           <action name="Execute">
             <execute>exo-open ~/.stalonetrayrc</execute>
           </action>
         </item>
-        <item label="Ρολόι">
+        <item label="Clock">
           <action name="Execute">
             <execute>exo-open ~/.Xdefaults</execute>
           </action>
         </item>
       </menu>
       <menu id="menu-2782497" label="Raspberry Pi">
-        <item label="Βασική ρύθμιση">
+        <item label="Basic setup">
           <action name="Execute">
             <execute>rc_gui</execute>
           </action>
         </item>
-        <item label="Λεπτομερής διαμόρφωση">
+        <item label="Detailed config">
           <action name="Execute">
             <execute>x-terminal-emulator -e sudo raspi-config</execute>
           </action>
         </item>
       </menu>
     </menu>
-    <menu id="Out_of_sight.menu" label="Εκτός οπτικού πεδίου">
+    <menu id="Out_of_sight.menu" label="Out of sight">
       <item label="Conky">
         <action name="Execute">
           <execute>conkytoggle.sh</execute>
         </action>
       </item>
-      <item label="Εικονίδια επιφάνειας εργασίας">
+      <item label="Desktop icons">
         <action name="Execute">
           <execute>idesktoggle icons</execute>
         </action>
       </item>
-      <item label="Αποβάθρα">
+      <item label="Dock">
         <action name="Execute">
           <execute>toggletint2_dock_ob</execute>
         </action>
@@ -166,36 +166,36 @@
           <execute>toggle-mx gkrellm</execute>
         </action>
       </item>
-      <menu id="menu-6251006" label="Περιοχή ειδοποιήσεων">
+      <menu id="menu-6251006" label="Notification area">
         <item label="Systray">
           <action name="Execute">
             <execute>toggle-mx stalonetray</execute>
           </action>
         </item>
-        <item label="Ρολόι">
+        <item label="Clock">
           <action name="Execute">
             <execute>toggle-mx tdc</execute>
           </action>
         </item>
       </menu>
     </menu>
-    <menu id="exit-menu" label="Αφήστε το">
-      <item label="Ανανέωση">
+    <menu id="exit-menu" label="Leave">
+      <item label="Refresh">
         <action name="Execute">
           <execute>openbox --reconfigure</execute>
         </action>
       </item>
-      <item label="Αποσύνδεση">
+      <item label="Log Out">
         <action name="Execute">
           <command>openbox --exit</command>
         </action>
       </item>
-      <item label="Τερματισμός λειτουργίας">
+      <item label="Shutdown">
         <action name="Execute">
           <command>systemctl poweroff</command>
         </action>
       </item>
-      <item label="Επανεκκίνηση">
+      <item label="Restart">
         <action name="Execute">
           <command>systemctl reboot</command>
         </action>

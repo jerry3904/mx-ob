@@ -8,5 +8,5 @@ Standards-Version: 3.9.3
 Package: mx-ob
 Architecture: arm64
 Replaces: 
-Depends: ${misc:Depends} openbox, obconf-qt, stalonetray, tdc, obmenu2, obkey, tint2, thunar, xfce4-terminal, mx-common, desktop-defaults, blueman, lightdm, xfce4-clipman, pavucontrol, xfce4-notifyd, gsimplecal, conky, conky-manager, volumeicon-alsa, nala, arandr, mx-tools, mx-manual, mxfb-accessories, libreoffice-writer, libreoffice-gtk3  
+Depends: ${misc:Depends} openbox, obconf-qt, stalonetray, tdc, obmenu2, obkey, tint2, thunar, xfce4-terminal, mx-common, desktop-defaults, blueman, lightdm, xfce4-clipman, pavucontrol, xfce4-notifyd, gsimplecal, conky, conky-manager, volumeicon-alsa, nala, arandr, mx-tools, mx-manual firefox  
 Description: An unofficial respin of MX-Linux with Openbox as WM
