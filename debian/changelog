@@ -14,5 +14,6 @@ mxob (unknowo) UNRELEASED; urgency=medium
   * Removed mxfb-accessories, manually replaced quickstart
   * Corrected the menus since tint2-manager gone
   * Updated Autostart
+  * Updated help and translations
 
- -- Jerry3904 <mxdevs@mx>  Sun, 08 Dec 2024 09:49:31 -0500
+ -- Jerry3904 <mxdevs@mx>  Tue, 10 Dec 2024 06:19:45 -0500
