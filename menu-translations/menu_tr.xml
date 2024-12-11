@@ -58,7 +58,7 @@
       </item>
       <item label="Rıhtım">
         <action name="Execute">
-          <execute>tint2 -c ~/.config/tint2/dock-basic-tint2rc</execute>
+          <execute>tint2session</execute>
         </action>
       </item>
       <item label="Monitörler">
@@ -80,17 +80,17 @@
     <menu id="Settings.menu" label="Ayarlar">
       <item label="Otomatik başlatma">
         <action name="Execute">
-          <execute>featherpad ~/.config/openbox/autostart</execute>
+          <execute>xdg-open ~/.config/openbox/autostart</execute>
         </action>
       </item>
       <item label="Detaylı">
         <action name="Execute">
-          <execute>featherpad ~/.config/openbox/rc.xml</execute>
+          <execute>xdg-open ~/.config/openbox/rc.xml</execute>
         </action>
       </item>
       <item label="Rıhtım">
         <action name="Execute">
-          <execute>tint2conf</execute>
+          <execute>mxfb-tint2-manager</execute>
         </action>
       </item>
       <item label="Ekran">
@@ -106,7 +106,7 @@
       <menu id="menu-7065141" label="Menü">
         <item label="Tüm uygulamalar">
           <action name="Execute">
-            <execute>featherpad ~/.config/jgmenu/jgmenurc</execute>
+            <execute>xdg-open ~/.config/jgmenu/jgmenurc</execute>
           </action>
         </item>
         <item label="Masaüstü">
@@ -123,12 +123,12 @@
       <menu id="menu-2893040" label="Bildirim alanı">
         <item label="Systray">
           <action name="Execute">
-            <execute>exo-open ~/.stalonetrayrc</execute>
+            <execute>xdg-open ~/.stalonetrayrc</execute>
           </action>
         </item>
         <item label="Saat">
           <action name="Execute">
-            <execute>exo-open ~/.Xdefaults</execute>
+            <execute>xdg-open ~/.Xdefaults</execute>
           </action>
         </item>
       </menu>
@@ -144,6 +144,11 @@
           </action>
         </item>
       </menu>
+            <item label="Duvar Kağıdı">
+        <action name="Execute">
+          <execute>xdg-open ~/.config/feh/feh-setbg.conf</execute>
+        </action>
+      </item>
     </menu>
     <menu id="Out_of_sight.menu" label="Gözden uzak">
       <item label="Conky">

@@ -58,7 +58,7 @@
       </item>
       <item label="Quai">
         <action name="Execute">
-          <execute>tint2 -c ~/.config/tint2/dock-basic-tint2rc</execute>
+          <execute>tint2session</execute>
         </action>
       </item>
       <item label="Moniteurs">
@@ -90,7 +90,7 @@
       </item>
       <item label="Quai">
         <action name="Execute">
-          <execute>tint2conf</execute>
+          <execute>mxfb-tint2-manager</execute>
         </action>
       </item>
       <item label="Affichage">
@@ -123,12 +123,12 @@
       <menu id="menu-2893040" label="Zone de notification">
         <item label="Systray">
           <action name="Execute">
-            <execute>exo-open ~/.stalonetrayrc</execute>
+            <execute>xdg-open ~/.stalonetrayrc</execute>
           </action>
         </item>
         <item label="Horloge">
           <action name="Execute">
-            <execute>exo-open ~/.Xdefaults</execute>
+            <execute>xdg-open ~/.Xdefaults</execute>
           </action>
         </item>
       </menu>
@@ -144,6 +144,11 @@
           </action>
         </item>
       </menu>
+            <item label="Papier peint">
+        <action name="Execute">
+          <execute>featherpad ~/.config/feh/feh-setbg.conf</execute>
+        </action>
+      </item>
     </menu>
     <menu id="Out_of_sight.menu" label="A l'abri des regards">
       <item label="Conky">

@@ -58,7 +58,7 @@
       </item>
       <item label="Dok">
         <action name="Execute">
-          <execute>tint2 -c ~/.config/tint2/dock-basic-tint2rc</execute>
+          <execute>tint2session</execute>
         </action>
       </item>
       <item label="Monitory">
@@ -80,17 +80,17 @@
     <menu id="Settings.menu" label="Ustawienia">
       <item label="Autostart">
         <action name="Execute">
-          <execute>featherpad ~/.config/openbox/autostart</execute>
+          <execute>xdg-open ~/.config/openbox/autostart</execute>
         </action>
       </item>
       <item label="Szczegółowe ">
         <action name="Execute">
-          <execute>featherpad ~/.config/openbox/rc.xml</execute>
+          <execute>xdg-open ~/.config/openbox/rc.xml</execute>
         </action>
       </item>
       <item label="Dok">
         <action name="Execute">
-          <execute>tint2conf</execute>
+          <execute>mxfb-tint2-manager</execute>
         </action>
       </item>
       <item label="Wyświetlacz">
@@ -106,7 +106,7 @@
       <menu id="menu-7065141" label="Menu">
         <item label="Wszystkie aplikacje">
           <action name="Execute">
-            <execute>featherpad ~/.config/jgmenu/jgmenurc</execute>
+            <execute>xdg-open ~/.config/jgmenu/jgmenurc</execute>
           </action>
         </item>
         <item label="Pulpit">
@@ -123,12 +123,12 @@
       <menu id="menu-2893040" label="Obszar powiadomień">
         <item label="System">
           <action name="Execute">
-            <execute>exo-open ~/.stalonetrayrc</execute>
+            <execute>xdg-open ~/.stalonetrayrc</execute>
           </action>
         </item>
         <item label="Zegar">
           <action name="Execute">
-            <execute>exo-open ~/.Xdefaults</execute>
+            <execute>xdg-open ~/.Xdefaults</execute>
           </action>
         </item>
       </menu>
@@ -144,6 +144,11 @@
           </action>
         </item>
       </menu>
+            <item label="Tapeta">
+        <action name="Execute">
+          <execute>xdg-open ~/.config/feh/feh-setbg.conf</execute>
+        </action>
+      </item>
     </menu>
     <menu id="Out_of_sight.menu" label="Poza zasięgiem wzroku">
       <item label="Conky">
