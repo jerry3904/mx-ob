@@ -51,11 +51,6 @@
           <execute>conky-manager2</execute>
         </action>
       </item>
-      <item label="Ikony pulpitu">
-        <action name="Execute">
-          <execute>mx-idesktool</execute>
-        </action>
-      </item>
       <item label="Dok">
         <action name="Execute">
           <execute>tint2session</execute>
@@ -90,7 +85,7 @@
       </item>
       <item label="Dok">
         <action name="Execute">
-          <execute>mxfb-tint2-manager</execute>
+          <execute>tint2conf</execute>
         </action>
       </item>
       <item label="Wyświetlacz">
@@ -154,11 +149,6 @@
       <item label="Conky">
         <action name="Execute">
           <execute>conkytoggle.sh</execute>
-        </action>
-      </item>
-      <item label="Ikony pulpitu">
-        <action name="Execute">
-          <execute>idesktoggle icons</execute>
         </action>
       </item>
       <item label="Dok">

@@ -90,7 +90,7 @@
       </item>
       <item label="Dock">
         <action name="Execute">
-          <execute>mxfb-tint2-manager</execute>
+          <execute>tint2conf</execute>
         </action>
       </item>
       <item label="Anzeige">
@@ -154,11 +154,6 @@
       <item label="Conky">
         <action name="Execute">
           <execute>conkytoggle.sh</execute>
-        </action>
-      </item>
-      <item label="Desktop-Symbole">
-        <action name="Execute">
-          <execute>idesktoggle icons</execute>
         </action>
       </item>
       <item label="Dock">

@@ -1,40 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <openbox_menu xmlns="http://openbox.org/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openbox.org/                                   file:///usr/share/openbox/menu.xsd">
   <menu id="root-menu" label="Openbox 3">
-    <item label="All apps">
+    <item label="Todas las aplicaciones">
       <action name="Execute">
         <execute>jgmenu_run</execute>
       </action>
     </item>
     <separator />
-    <item label="Browser">
+    <item label="Navegador">
       <action name="Execute">
         <execute>x-www-browser</execute>
       </action>
     </item>
-    <item label="File manager">
+    <item label="Gestor de archivos">
       <action name="Execute">
         <execute>thunar</execute>
       </action>
     </item>
     <menu id="menu-4258592" label="Help">
-      <item label="First Aid">
+      <item label="Primeros auxilios">
         <action name="Execute">
           <execute>mxob-help</execute>
         </action>
       </item>
-      <item label="MX Users Manual">
+      <item label="Manual del usuario de MX">
         <action name="Execute">
           <execute>mx-manual</execute>
         </action>
       </item>
     </menu>
-    <item label="MX Tools">
+    <item label="Herramientas MX">
       <action name="Execute">
         <execute>mx-tools</execute>
       </action>
     </item>
-    <item label="Run">
+    <item label="Ejecutar">
       <action name="Execute">
         <execute>/usr/bin/mxfb-rofirun</execute>
       </action>
@@ -45,71 +45,71 @@
       </action>
     </item>
     <separator />
-    <menu id="Appearance.menu" label="Appearance">
+    <menu id="Appearance.menu" label="Apariencia">
       <item label="Conky">
         <action name="Execute">
           <execute>conky-manager2</execute>
         </action>
       </item>
-      <item label="Desktop icons">
+      <item label="Iconos del escritorio">
         <action name="Execute">
           <execute>mx-idesktool</execute>
         </action>
       </item>
-      <item label="Dock">
+      <item label="Muelle">
         <action name="Execute">
-          <execute>tint2 -c ~/.config/tint2/dock-basic-tint2rc</execute>
+          <execute>tint2session</execute>
         </action>
       </item>
-      <item label="Monitors">
+      <item label="Monitores">
         <action name="Execute">
           <execute>gkrellm</execute>
         </action>
       </item>
-      <item label="Theme">
+      <item label="Tema">
         <action name="Execute">
           <execute>obconf-qt</execute>
         </action>
       </item>
-      <item label="Wallpaper">
+      <item label="Fondo de pantalla">
         <action name="Execute">
           <execute>/usr/bin/feh-setbg</execute>
         </action>
       </item>
     </menu>
-    <menu id="Settings.menu" label="Settings">
-      <item label="Autostart">
+    <menu id="Settings.menu" label="Configuración">
+      <item label="Inicio automático">
         <action name="Execute">
-          <execute>featherpad ~/.config/openbox/autostart</execute>
+          <execute>xdg-open ~/.config/openbox/autostart</execute>
         </action>
       </item>
-      <item label="Detailed ">
+      <item label="Detallado">
         <action name="Execute">
-          <execute>featherpad ~/.config/openbox/rc.xml</execute>
+          <execute>xdg-open ~/.config/openbox/rc.xml</execute>
         </action>
       </item>
-      <item label="Dock">
+      <item label="Muelle">
         <action name="Execute">
           <execute>tint2conf</execute>
         </action>
       </item>
-      <item label="Display">
+      <item label="Mostrar">
         <action name="Execute">
           <execute>raindrop</execute>
         </action>
       </item>
-      <item label="Keys">
+      <item label="Teclas">
         <action name="Execute">
           <execute>obkey</execute>
         </action>
       </item>
-      <menu id="menu-7065141" label="Menu">
-        <item label="All apps">
+      <menu id="menu-7065141" label="Menú">
+        <item label="Todas las aplicaciones">
           <action name="Execute">
-            <execute>featherpad ~/.config/jgmenu/jgmenurc</execute>
+            <execute>xdg-open ~/.config/jgmenu/jgmenurc</execute>
           </action>
         </item>
-        <item label="Desktop">
+        <item label="Escritorio">
           <action name="Execute">
             <execute>obmenu2</execute>
           </action>
@@ -120,43 +120,48 @@
           </action>
         </item>
       </menu>
-      <menu id="menu-2893040" label="Notification area">
+      <menu id="menu-2893040" label="Área de notificación">
         <item label="Systray">
           <action name="Execute">
-            <execute>exo-open ~/.stalonetrayrc</execute>
+            <execute>xdg-open ~/.stalonetrayrc</execute>
           </action>
         </item>
-        <item label="Clock">
+        <item label="Reloj">
           <action name="Execute">
-            <execute>exo-open ~/.Xdefaults</execute>
+            <execute>xdg-open ~/.Xdefaults</execute>
           </action>
         </item>
       </menu>
       <menu id="menu-2782497" label="Raspberry Pi">
-        <item label="Basic setup">
+        <item label="Configuración básica">
           <action name="Execute">
             <execute>rc_gui</execute>
           </action>
         </item>
-        <item label="Detailed config">
+        <item label="Configuración detallada">
           <action name="Execute">
             <execute>x-terminal-emulator -e sudo raspi-config</execute>
           </action>
         </item>
       </menu>
+            <item label="Fondo de pantalla">
+        <action name="Execute">
+          <execute>xdg-open ~/.config/feh/feh-setbg.conf</execute>
+        </action>
+      </item>
     </menu>
-    <menu id="Out_of_sight.menu" label="Out of sight">
+    <menu id="Out_of_sight.menu" label="Fuera de la vista">
       <item label="Conky">
         <action name="Execute">
           <execute>conkytoggle.sh</execute>
         </action>
       </item>
-      <item label="Desktop icons">
+      <item label="Iconos del escritorio">
         <action name="Execute">
           <execute>idesktoggle icons</execute>
         </action>
       </item>
-      <item label="Dock">
+      <item label="Muelle">
         <action name="Execute">
           <execute>toggletint2_dock_ob</execute>
         </action>
@@ -166,36 +171,36 @@
           <execute>toggle-mx gkrellm</execute>
         </action>
       </item>
-      <menu id="menu-6251006" label="Notification area">
+      <menu id="menu-6251006" label="Área de notificación">
         <item label="Systray">
           <action name="Execute">
             <execute>toggle-mx stalonetray</execute>
           </action>
         </item>
-        <item label="Clock">
+        <item label="Reloj">
           <action name="Execute">
             <execute>toggle-mx tdc</execute>
           </action>
         </item>
       </menu>
     </menu>
-    <menu id="exit-menu" label="Leave">
-      <item label="Refresh">
+    <menu id="exit-menu" label="Salir de">
+      <item label="Actualizar">
         <action name="Execute">
           <execute>openbox --reconfigure</execute>
         </action>
       </item>
-      <item label="Log Out">
+      <item label="Cerrar sesión">
         <action name="Execute">
           <command>openbox --exit</command>
         </action>
       </item>
-      <item label="Shutdown">
+      <item label="Apagar">
         <action name="Execute">
           <command>systemctl poweroff</command>
         </action>
       </item>
-      <item label="Restart">
+      <item label="Reiniciar">
         <action name="Execute">
           <command>systemctl reboot</command>
         </action>
