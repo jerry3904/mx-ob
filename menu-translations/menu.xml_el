@@ -52,10 +52,6 @@
         </action>
       </item>
       <item label="Εικονίδια επιφάνειας εργασίας">
-        <action name="Execute">
-          <execute>mx-idesktool</execute>
-        </action>
-      </item>
       <item label="Αποβάθρα">
         <action name="Execute">
           <execute>tint2session</execute>

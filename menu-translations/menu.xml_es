@@ -51,11 +51,6 @@
           <execute>conky-manager2</execute>
         </action>
       </item>
-      <item label="Iconos del escritorio">
-        <action name="Execute">
-          <execute>mx-idesktool</execute>
-        </action>
-      </item>
       <item label="Muelle">
         <action name="Execute">
           <execute>tint2session</execute>
