@@ -1,0 +1,81 @@
+#
+# These things are run when an Openbox X Session is started.
+#
+
+# localize openbox menu
+localize_openbox_menu-xml
+
+# User folders update
+xdg-user-dirs-update
+# Update common folder names to match current locale
+xdg-user-dirs-gtk-update
+
+# set a wallpaper 
+~/.fehbg
+
+#localize openbox static menu
+#( which mxfb-menu-fb-l10n >/dev/null  && mxfb-menu-ob-l10n ) &
+
+# export Qt variables
+export QT_QPA_PLATFORMTHEME=gtk2
+export QT_PLATFORMTHEME=gtk2
+export QT_PLATFORM_PLUGIN=gtk2
+
+# number of seconds of inactivity before screen turns off
+xset -dpms && xset s 600
+
+# add root access
+/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1 &
+
+# use a compositor
+compton &
+
+#### systray and clock ####
+
+# add a systray
+stalonetray &
+
+# place apt-notifier on the systray
+(sleep 6; /usr/bin/apt-notifier) & 
+
+#place network manager on the systray
+nm-applet &
+
+# place bluetooth manager on the systray
+bluetooth-applet &
+
+# place a copy manager on the systray
+xfce4-clipman &
+
+# place bluetooth manager on the systray
+blueman-applet &
+
+# add a clock alongside the systray
+(sleep 6; tdc) &
+
+#### ####
+
+#start a virtual keyboard
+#onboard &
+
+# start user accessibility if it doesn't exist
+/usr/libexec/at-spi-bus-launcher --launch-immediately &
+
+# add a dock
+tint2 -c ~/.config/tint2/dock-nord-tint2rc
+
+#conky to follow conky toggle settings
+conkystart
+
+# start pipewire before volumeicon so unmute works
+pipewire-start
+sleep 2
+volumeicon -c volumeicon-fluxbox & 
+
+
+
+
+
+
+
+

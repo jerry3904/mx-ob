@@ -18,5 +18,6 @@ mxob (unknowo) UNRELEASED; urgency=medium
   * Final help revision, translations
   * Added a settings entry to menu
   * Moved language code on translated menus to end for script to pick up
+  * Added compondents
 
- -- Jerry3904 <mxdevs@mx>  Fri, 13 Dec 2024 17:26:22 -0500
+ -- Jerry3904 <mxdevs@mx>  Thu, 19 Dec 2024 13:11:10 -0500

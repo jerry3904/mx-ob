@@ -1,0 +1,15 @@
+#### TINY DOCKABLE CLOCK ####
+## for details: man tdc ##
+tdc.font
+tdc.bold: yes
+tdc.fontsize
+tdc.enable-cal: yes
+tdc.calfont: 16
+tdc.calfontsize
+tdc.color: orange
+tdc.hlcolor: green
+tdc.width
+
+# For 24hr change to %H:%M. 
+tdc.format: %I:%M
+# Other possible time codes: man strftime
