@@ -20,5 +20,6 @@ mxob (unknowo) UNRELEASED; urgency=medium
   * Moved language code on translated menus to end for script to pick up
   * Added compondents
   * Added feh-setbg
+  * Added gtk3.0 folder
 
- -- Jerry3904 <mxdevs@mx>  Thu, 19 Dec 2024 16:27:16 -0500
+ -- Jerry3904 <mxdevs@mx>  Sat, 21 Dec 2024 13:46:54 -0500
